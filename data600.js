@@ -21,7 +21,7 @@ var d = {
     "dapan": 2,
     "category": "khai-niem",
     "cauliet": "0",
-    "goiy": "Làn đường là phần của phần đường xe chạy được chia theo chiều dọc, có đủ chiều rộng để đảm bảo phương tiện lưu thông an toàn. Mỗi làn giúp phân luồng giao thông rõ ràng, giảm va chạm và giữ trật tự trên đường. Đây là khái niệm cơ bản trong việc tổ chức giao thông hiệu quả.",
+    "goiy": "àn đường là phần của phần đường xe chạy được chia theo chiều dọc, có đủ chiều rộng để đảm bảo phương tiện lưu thông an toàn. Mỗi làn giúp phân luồng giao thông rõ ràng, giảm va chạm và giữ trật tự trên đường. Đây là khái niệm cơ bản trong việc tổ chức giao thông hiệu quả.",
     "info": {
       "1": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, sử dụng cho xe chạy.",
       "2": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xe chạy an toàn.",
@@ -82,8 +82,7 @@ var d = {
     "info": {
       "1": "Là người điều khiển xe cơ giới, người điều khiển xe thô sơ, người điều khiển xe máy chuyên dùng.",
       "2": "Là người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -97,8 +96,7 @@ var d = {
     "info": {
       "1": "Là người điều khiển xe cơ giới.",
       "2": "Là người điều khiển xe thô sơ.",
-      "3": "Là người điều khiển xe máy chuyên dùng.",
-      "4": "Cả ba ý trên."
+      "3": "Là người điều khiển xe máy chuyên dùng."
     }
   },
   {
@@ -111,9 +109,7 @@ var d = {
     "goiy": "Phương tiện có động cơ chạy bằng xăng hoặc điện 🔧 gồm ô tô, mô tô, xe máy và các loại xe tương tự, được dùng để chở người hoặc hàng hóa, khác với xe thô sơ như xe đạp.",
     "info": {
       "1": "Xe ô tô; máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy; xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng; xe đạp, xe đạp máy, xe đạp điện.",
-      "2": "Xe ô tô; rơ moóc được kéo bởi xe ô tô; sơ mi rơ moóc được kéo bởi ô tô đầu kéo; xe chở người bốn bánh có gắn động cơ; xe chở hàng bốn bánh có gắn động cơ; xe mô tô, xe gắn máy và các loại xe tương tự.",
-      "3": "Là người điều khiển xe máy chuyên dùng.",
-      "4": "Cả ba ý trên."
+      "2": "Xe ô tô; rơ moóc được kéo bởi xe ô tô; sơ mi rơ moóc được kéo bởi ô tô đầu kéo; xe chở người bốn bánh có gắn động cơ; xe chở hàng bốn bánh có gắn động cơ; xe mô tô, xe gắn máy và các loại xe tương tự."
     }
   },
   {
@@ -127,8 +123,7 @@ var d = {
     "info": {
       "1": "Xe đạp, xe đạp máy, xe đạp điện; xe xích lô; xe lăn dùng cho người khuyết tật; xe vật nuôi kéo và các loại xe tương tự.",
       "2": "Xe đạp (kể cả xe đạp máy, xe đạp điện), xe gắn máy, xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng.",
-      "3": "Xe ô tô, máy kéo, rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo.",
-      "4": "Cả ba ý trên."
+      "3": "Xe ô tô, máy kéo, rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo."
     }
   },
   {
@@ -142,8 +137,7 @@ var d = {
     "info": {
       "1": "Phương tiện giao thông cơ giới đường bộ.",
       "2": "Phương tiện giao thông thô sơ đường bộ, xe máy chuyên dùng và các loại xe tương tự.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -157,8 +151,7 @@ var d = {
     "info": {
       "1": "Người điều khiển, người được chở trên phương tiện tham gia giao thông đường bộ.",
       "2": "Người điều khiển, dẫn dắt vật nuôi trên đường bộ; người đi bộ trên đường bộ.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -172,8 +165,7 @@ var d = {
     "info": {
       "1": "Người điều khiển xe cơ giới, người điều khiển xe thô sơ.",
       "2": "Người điều khiển xe máy chuyên dùng.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -187,8 +179,7 @@ var d = {
     "info": {
       "1": "Là người điều khiển phương tiện tham gia giao thông đường bộ.",
       "2": "Là Cảnh sát giao thông và người được giao nhiệm vụ hướng dẫn giao thông trên đường bộ.",
-      "3": "Là người tham gia giao thông đường bộ.",
-      "4": "Cả ba ý trên."
+      "3": "Là người tham gia giao thông đường bộ."
     }
   },
   {
@@ -202,8 +193,7 @@ var d = {
     "info": {
       "1": "Là trạng thái đứng yên của xe không giới hạn thời gian để cho người lên, xuống xe, xếp dỡ hàng hóa hoặc thực hiện công việc khác.",
       "2": "Là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác. Khi dừng xe không được tắt máy và không được rời khỏi vị trí lái, trừ trường hợp rời khỏi vị trí lái để đóng, mở cửa xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe nhưng phải sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác.",
-      "3": "Là trạng thái đứng yên của xe không giới hạn thời gian giữa 02 lần vận chuyển hàng hóa hoặc hành khách.",
-      "4": "Cả ba ý trên."
+      "3": "Là trạng thái đứng yên của xe không giới hạn thời gian giữa 02 lần vận chuyển hàng hóa hoặc hành khách."
     }
   },
   {
@@ -216,9 +206,7 @@ var d = {
     "goiy": "Là khi xe dừng lại không giới hạn thời gian tại một vị trí ⏹️ người lái có thể rời khỏi xe nếu đã đảm bảo an toàn như kéo phanh tay hoặc chèn bánh trên đường dốc.",
     "info": {
       "1": "Là trạng thái đứng yên của xe có giới hạn thời gian trong một khoảng thời gian cần thiết đủ để cho người lên, xuống xe đó, xếp dỡ hàng hóa hoặc thực hiện công việc khác.",
-      "2": "Là trạng thái đứng yên của xe không giới hạn thời gian. Khi đỗ xe, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được rời khỏi xe khi đã sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường, chèn bánh.",
-      "3": "Là trạng thái đứng yên của xe không giới hạn thời gian giữa 02 lần vận chuyển hàng hóa hoặc hành khách.",
-      "4": "Cả ba ý trên."
+      "2": "Là trạng thái đứng yên của xe không giới hạn thời gian. Khi đỗ xe, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được rời khỏi xe khi đã sử dụng phanh đỗ xe hoặc thực hiện biện pháp an toàn khác. Xe đỗ trên đoạn đường dốc phải đánh lái về phía lề đường, chèn bánh."
     }
   },
   {
@@ -231,9 +219,7 @@ var d = {
     "goiy": "Là loại đường hiện đại, tách biệt chiều xe chạy, không giao cắt 🚧 chỉ cho xe ra vào đúng điểm quy định nhằm đảm bảo an toàn và rút ngắn thời gian di chuyển.",
     "info": {
       "1": "Là một cấp kỹ thuật của đường bộ, chỉ dành cho một số loại xe cơ giới, xe máy chuyên dùng tham gia giao thông theo quy định của pháp luật. Có dải phân cách phân chia hai chiều xe chạy riêng biệt, không giao nhau cùng mức với một hoặc các đường khác, chỉ cho xe ra, vào ở những điểm nhất định. Có hàng rào bảo vệ, trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình.",
-      "2": "Là đường nối liền Thủ đô Hà Nội với trung tâm hành chính cấp tỉnh; đường nối liền các trung tâm hành chính cấp tỉnh; đường có vị trí quan trọng đối với sự phát triển kinh tế- xã hội, bảo đảm quốc phòng, an ninh của vùng, khu vực.",
-      "3": "Là trạng thái đứng yên của xe không giới hạn thời gian giữa 02 lần vận chuyển hàng hóa hoặc hành khách.",
-      "4": "Cả ba ý trên."
+      "2": "Là đường nối liền Thủ đô Hà Nội với trung tâm hành chính cấp tỉnh; đường nối liền các trung tâm hành chính cấp tỉnh; đường có vị trí quan trọng đối với sự phát triển kinh tế- xã hội, bảo đảm quốc phòng, an ninh của vùng, khu vực."
     }
   },
   {
@@ -246,9 +232,7 @@ var d = {
     "goiy": "Là ghế hoặc đai chuyên dụng bảo vệ trẻ khi ngồi ô tô 👶 giúp giảm chấn thương khi va chạm hoặc phanh gấp bằng cách cố định và hạn chế chuyển động của trẻ.",
     "info": {
       "1": "Là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế ngồi hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xảy ra va chạm hoặc xe ô tô giảm tốc độ đột ngột, bằng cách hạn chế sự di chuyển của cơ thể trẻ em.",
-      "2": "Là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế đứng hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xe ô tô lưu thông bình thường.",
-      "3": "Là trạng thái đứng yên của xe không giới hạn thời gian giữa 02 lần vận chuyển hàng hóa hoặc hành khách.",
-      "4": "Cả ba ý trên."
+      "2": "Là thiết bị có đủ khả năng bảo đảm an toàn cho trẻ em ở tư thế đứng hoặc nằm trên xe ô tô, được thiết kế để giảm nguy cơ chấn thương cho người dùng trong trường hợp xe ô tô lưu thông bình thường."
     }
   },
   {
@@ -262,8 +246,7 @@ var d = {
     "info": {
       "1": "Đường chính, đường nhánh, đường gom, đường bên, đường dành cho giao thông công cộng, đường nội bộ, đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác.",
       "2": "Đường chính, đường nhánh, đường gom, đường dành cho giao thông công cộng, đường nội bộ, đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác.",
-      "3": "Đường chính, đường nhánh, đường gom, đường bên, đường dành cho giao thông công cộng, đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác.",
-      "4": "Cả ba ý trên."
+      "3": "Đường chính, đường nhánh, đường gom, đường bên, đường dành cho giao thông công cộng, đường dành riêng cho người đi bộ, người đi xe đạp và các đường khác."
     }
   },
   {
@@ -277,8 +260,7 @@ var d = {
     "info": {
       "1": "Sử dụng xe đạp đi trên các tuyến quốc lộ.",
       "2": "Rải vật sắc nhọn, đổ chất gây trơn trượt trên đường bộ.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -292,8 +274,7 @@ var d = {
     "info": {
       "1": "Không có chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
       "2": "Hết niên hạn sử dụng.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -307,8 +288,7 @@ var d = {
     "info": {
       "1": "Trên đường phố không có người qua lại.",
       "2": "Được người dân ủng hộ.",
-      "3": "Được cơ quan có thẩm quyền cấp phép.",
-      "4": "Cả ba ý trên."
+      "3": "Được cơ quan có thẩm quyền cấp phép."
     }
   },
   {
@@ -321,9 +301,7 @@ var d = {
     "goiy": "Đua xe trái phép sẽ bị phạt nặng tùy mức độ vi phạm ⚖️ có thể xử lý hành chính hoặc hình sự nếu gây nguy hiểm cho xã hội và vi phạm pháp luật nghiêm trọng.",
     "info": {
       "1": "Chỉ bị nhắc nhở.",
-      "2": "Tùy theo mức độ của hành vi vi phạm có thể bị xử lý hành chính hoặc xử lý hình sự.",
-      "3": "Được cơ quan có thẩm quyền cấp phép.",
-      "4": "Cả ba ý trên."
+      "2": "Tùy theo mức độ của hành vi vi phạm có thể bị xử lý hành chính hoặc xử lý hình sự."
     }
   },
   {
@@ -337,8 +315,7 @@ var d = {
     "info": {
       "1": "Bị phạt tiền.",
       "2": "Bị tước giấy phép lái xe.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -352,8 +329,7 @@ var d = {
     "info": {
       "1": "Bị nghiêm cấm.",
       "2": "Không bị nghiêm cấm.",
-      "3": "Không bị nghiêm cấm, nếu nồng độ cồn trong máu ở mức nhẹ, có thể điều khiển phương tiện tham gia giao thông.",
-      "4": "Cả ba ý trên."
+      "3": "Không bị nghiêm cấm, nếu nồng độ cồn trong máu ở mức nhẹ, có thể điều khiển phương tiện tham gia giao thông."
     }
   },
   {
@@ -367,8 +343,7 @@ var d = {
     "info": {
       "1": "Bị phạt tiền.",
       "2": "Có thể bị tước giấy phép lái xe.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -382,8 +357,7 @@ var d = {
     "info": {
       "1": "Người điều khiển xe ô tô, xe mô tô, xe đạp, xe gắn máy.",
       "2": "Người được chở trên xe cơ giới.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -412,8 +386,7 @@ var d = {
     "info": {
       "1": "Điều khiển xe cơ giới lạng lách, đánh võng, rú ga liên tục khi tham gia giao thông trên đường.",
       "2": "Xúc phạm, đe dọa, cản trở, chống đối hoặc không chấp hành hiệu lệnh, hướng dẫn, yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về bảo đảm trật tự, an toàn giao thông đường bộ.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -426,9 +399,7 @@ var d = {
     "goiy": "Cấm can thiệp trái phép vào thông số kỹ thuật của xe 🔧 như chỉnh sửa đồng hồ km, số khung, số máy vì ảnh hưởng đến an toàn và gian lận trong quản lý phương tiện.",
     "info": {
       "1": "Cải tạo xe ô tô loại khác thành xe ô tô chở người phục vụ mục đích quốc phòng, an ninh.",
-      "2": "Cải tạo trái phép; cố ý can thiệp làm sai lệch chỉ số trên đồng hồ báo quãng đường đã chạy của xe ô tô; cắt, hàn, tẩy xóa, đục sửa, đóng lại trái phép số khung, số động cơ của xe cơ giới, xe máy chuyên dùng.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "2": "Cải tạo trái phép; cố ý can thiệp làm sai lệch chỉ số trên đồng hồ báo quãng đường đã chạy của xe ô tô; cắt, hàn, tẩy xóa, đục sửa, đóng lại trái phép số khung, số động cơ của xe cơ giới, xe máy chuyên dùng."
     }
   },
   {
@@ -442,8 +413,7 @@ var d = {
     "info": {
       "1": "Lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe cơ giới, xe máy chuyên dùng gây mất trật tự, an toàn giao thông đường bộ.",
       "2": "Cản trở người, phương tiện tham gia giao thông trên đường bộ; ném gạch, đất, đá, cát hoặc vật thể khác vào người, phương tiện đang tham gia giao thông trên đường bộ.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -457,8 +427,7 @@ var d = {
     "info": {
       "1": "Không bị nghiêm cấm.",
       "2": "Bị nghiêm cấm.",
-      "3": "Bị nghiêm cấm tuỳ trường hợp.",
-      "4": "Cả ba ý trên."
+      "3": "Bị nghiêm cấm tuỳ trường hợp."
     }
   },
   {
@@ -472,8 +441,7 @@ var d = {
     "info": {
       "1": "Thay đổi tốc độ của xe nhiều lần.",
       "2": "Điều khiển phương tiện sau 23 giờ trong ngày.",
-      "3": "Lạng lách, đánh võng, rú ga liên tục.",
-      "4": "Cả ba ý trên."
+      "3": "Lạng lách, đánh võng, rú ga liên tục."
     }
   },
   {
@@ -487,8 +455,7 @@ var d = {
     "info": {
       "1": "Ba nhóm: Biển báo cấm, biển báo nguy hiểm và biển hiệu lệnh.",
       "2": "Bốn nhóm: Biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển phụ.",
-      "3": "Năm nhóm: Biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh, biển chỉ dẫn, biển phụ.",
-      "4": "Cả ba ý trên."
+      "3": "Năm nhóm: Biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh, biển chỉ dẫn, biển phụ."
     }
   },
   {
@@ -502,8 +469,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ và nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường đảm bảo an toàn.",
       "2": "Quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn cho người đi bộ, xe lăn của người khuyết tật qua đường.",
-      "3": "Quan sát, tăng tốc độ và điều khiển phương tiện nhanh chóng đi qua.",
-      "4": "Cả ba ý trên."
+      "3": "Quan sát, tăng tốc độ và điều khiển phương tiện nhanh chóng đi qua."
     }
   },
   {
@@ -562,8 +528,7 @@ var d = {
     "info": {
       "1": "Theo hiệu lệnh của người điều khiển giao thông.",
       "2": "Theo tín hiệu đèn giao thông.",
-      "3": "Theo biển báo hiệu đường bộ.",
-      "4": "Người tham gia giao thông đường bộ ở phía trước Cảnh sát giao thông phải dừng lại, các hướng khác được đi."
+      "3": "Theo biển báo hiệu đường bộ."
     }
   },
   {
@@ -577,8 +542,7 @@ var d = {
     "info": {
       "1": "Biển báo hiệu đặt cố định.",
       "2": "Biển báo hiệu tạm thời.",
-      "3": "Theo quyết định của người tham gia giao thông nhưng phải bảo đảm an toàn.",
-      "4": "Người tham gia giao thông đường bộ ở phía trước Cảnh sát giao thông phải dừng lại, các hướng khác được đi."
+      "3": "Theo quyết định của người tham gia giao thông nhưng phải bảo đảm an toàn."
     }
   },
   {
@@ -592,8 +556,7 @@ var d = {
     "info": {
       "1": "Dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác.",
       "2": "Tăng tốc độ nhanh chóng vượt qua nút giao.",
-      "3": "Quan sát, giảm tốc độ, từ từ vượt qua nút giao.",
-      "4": "Người tham gia giao thông đường bộ ở phía trước Cảnh sát giao thông phải dừng lại, các hướng khác được đi."
+      "3": "Quan sát, giảm tốc độ, từ từ vượt qua nút giao."
     }
   },
   {
@@ -607,8 +570,7 @@ var d = {
     "info": {
       "1": "Chỉ lớn hơn tốc độ tối đa cho phép khi đường vắng.",
       "2": "Chỉ lớn hơn tốc độ tối đa cho phép khi vào ban đêm.",
-      "3": "Không vượt quá tốc độ tối đa cho phép.",
-      "4": "Người tham gia giao thông đường bộ ở phía trước Cảnh sát giao thông phải dừng lại, các hướng khác được đi."
+      "3": "Không vượt quá tốc độ tối đa cho phép."
     }
   },
   {
@@ -621,9 +583,7 @@ var d = {
     "goiy": "Không cho trẻ ngồi cạnh người lái, phải dùng thiết bị an toàn 👶 để đảm bảo trẻ không bị va chạm mạnh khi xảy ra sự cố, tránh mất tập trung cho người lái, đồng thời dùng ghế hoặc dây an toàn phù hợp với thể trạng trẻ, giúp bảo vệ an toàn tuyệt đối khi di chuyển.",
     "info": {
       "1": "Không được cho trẻ em ngồi cùng hàng ghế với người lái xe, trừ loại xe ô tô chỉ có một hàng ghế; người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em.",
-      "2": "Cho trẻ em ngồi cùng hàng ghế với người lái xe, người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em.",
-      "3": "Không vượt quá tốc độ tối đa cho phép.",
-      "4": "Người tham gia giao thông đường bộ ở phía trước Cảnh sát giao thông phải dừng lại, các hướng khác được đi."
+      "2": "Cho trẻ em ngồi cùng hàng ghế với người lái xe, người lái xe phải sử dụng, hướng dẫn sử dụng thiết bị an toàn phù hợp cho trẻ em."
     }
   },
   {
@@ -637,8 +597,7 @@ var d = {
     "info": {
       "1": "Đi về bên trái theo chiều đi của mình.",
       "2": "Đi về bên phải theo chiều đi của mình.",
-      "3": "Đi ở bất cứ bên nào nhưng phải bấm đèn cảnh báo nguy hiểm để báo hiệu cho các phương tiện khác.",
-      "4": "Người tham gia giao thông đường bộ ở phía trước Cảnh sát giao thông phải dừng lại, các hướng khác được đi."
+      "3": "Đi ở bất cứ bên nào nhưng phải bấm đèn cảnh báo nguy hiểm để báo hiệu cho các phương tiện khác."
     }
   },
   {
@@ -652,8 +611,7 @@ var d = {
     "info": {
       "1": "Đi trên làn đường bên phải trong cùng.",
       "2": "Đi trên làn đường bên trái.",
-      "3": "Đi ở bất cứ làn nào nhưng phải bảo đảm tốc độ cho phép.",
-      "4": "Người tham gia giao thông đường bộ ở phía trước Cảnh sát giao thông phải dừng lại, các hướng khác được đi."
+      "3": "Đi ở bất cứ làn nào nhưng phải bảo đảm tốc độ cho phép."
     }
   },
   {
@@ -681,9 +639,7 @@ var d = {
     "goiy": "Là hành động điều khiển xe vượt lên trước xe khác 🏎️, đòi hỏi quan sát kỹ lưỡng và tuân thủ luật để tránh va chạm nguy hiểm, đặc biệt khi đường chỉ có một làn xe chạy mỗi chiều, việc vượt phải thật cẩn trọng và hợp lý.",
     "info": {
       "1": "Là tình huống giao thông trên đường mà mỗi chiều đường xe chạy chỉ có một làn đường dành cho xe cơ giới, xe đi phía sau di chuyển sang bên trái để di chuyển lên trước xe phía trước.",
-      "2": "Là tình huống giao thông trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước theo quy tắc sử dụng làn đường.",
-      "3": "Khi xe sau xin vượt nếu đủ điều kiện an toàn.",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "2": "Là tình huống giao thông trên đường có từ hai làn đường dành cho xe cơ giới cùng chiều trở lên được phân biệt bằng vạch kẻ đường, xe đi phía sau di chuyển lên trước xe phía trước theo quy tắc sử dụng làn đường."
     }
   },
   {
@@ -697,8 +653,7 @@ var d = {
     "info": {
       "1": "Được phép vượt khi đường vắng.",
       "2": "Không được phép vượt.",
-      "3": "Được phép vượt khi có việc gấp.",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "3": "Được phép vượt khi có việc gấp."
     }
   },
   {
@@ -712,8 +667,7 @@ var d = {
     "info": {
       "1": "Bấm còi liên tục để xe phía trước biết xe mình xin vượt.",
       "2": "Rú ga liên tục để xe phía trước biết xe mình xin vượt.",
-      "3": "Báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi.",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "3": "Báo hiệu nhấp nháy bằng đèn chiếu sáng phía trước hoặc còi."
     }
   },
   {
@@ -727,8 +681,7 @@ var d = {
     "info": {
       "1": "Từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau.",
       "2": "Từ 05 giờ đến 22 giờ.",
-      "3": "Từ 23 giờ ngày hôm trước đến 05 giờ sáng hôm sau.",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "3": "Từ 23 giờ ngày hôm trước đến 05 giờ sáng hôm sau."
     }
   },
   {
@@ -742,8 +695,7 @@ var d = {
     "info": {
       "1": "Để báo hiệu cho người tham gia giao thông đường bộ khi xuất hiện tình huống có thể mất an toàn giao thông hoặc báo hiệu chuẩn bị vượt xe.",
       "2": "Để báo hiệu cho người tham gia giao thông đường bộ từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ xe ưu tiên.",
-      "3": "Cả hai ý trên.",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -757,8 +709,7 @@ var d = {
     "info": {
       "1": "Chỉ bật đèn chiếu xa (đèn pha).",
       "2": "Bật đèn chiếu xa (đèn pha) khi đường vắng, bật đèn chiếu gần (đèn cốt) khi có xe đi ngược chiều.",
-      "3": "Chỉ bật đèn chiếu gần (đèn cốt).",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "3": "Chỉ bật đèn chiếu gần (đèn cốt)."
     }
   },
   {
@@ -771,9 +722,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác.",
-      "2": "Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng, chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp.",
-      "3": "Chỉ bật đèn chiếu gần (đèn cốt).",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "2": "Chỉ được chở người trên thùng xe ô tô chở hàng trong trường hợp chở người đi làm nhiệm vụ cứu nạn, cứu hộ, phòng, chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ khẩn cấp."
     }
   },
   {
@@ -787,8 +736,7 @@ var d = {
     "info": {
       "1": "Trên cầu hẹp có một làn đường; nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt; khi gặp xe ưu tiên.",
       "2": "Trên cầu có từ 02 làn xe trở lên.",
-      "3": "Trên đường có 02 làn đường được phân chia làn bằng vạch kẻ nét đứt.",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "3": "Trên đường có 02 làn đường được phân chia làn bằng vạch kẻ nét đứt."
     }
   },
   {
@@ -802,8 +750,7 @@ var d = {
     "info": {
       "1": "Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm.",
       "2": "Tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều.",
-      "3": "Cả hai ý trên.",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -817,8 +764,7 @@ var d = {
     "info": {
       "1": "Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, trên đường cao tốc, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc.",
       "2": "Ở phía trước hoặc phía sau của phần đường dành cho người đi bộ qua đường, trên đường quốc lộ.",
-      "3": "Cả hai ý trên.",
-      "4": "Khi xe sau có tín hiệu vượt bên phải."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -847,8 +793,7 @@ var d = {
     "info": {
       "1": "Khi bắt đầu chuyển làn đường.",
       "2": "Trước khi thay đổi làn đường.",
-      "3": "Sau khi thay đổi làn đường.",
-      "4": "Cả ba ý trên."
+      "3": "Sau khi thay đổi làn đường."
     }
   },
   {
@@ -877,8 +822,7 @@ var d = {
     "info": {
       "1": "Trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước.",
       "2": "Trong phạm vi an toàn của đường sắt.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -922,8 +866,7 @@ var d = {
     "info": {
       "1": "Nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy.",
       "2": "Song song cùng chiều với một xe khác đang dừng, đỗ trên đường; trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất; bên trái đường một chiều.",
-      "3": "Cả hai ý trên.",
-      "4": "25 mét."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -951,9 +894,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Buông cả hai tay; đứng, nằm trên xe điều khiển xe; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy.",
-      "2": "Chở tối đa hai người phía sau khi chở người bệnh đi cấp cứu, áp giải người có hành vi vi phạm pháp luật, trẻ em dưới 12 tuổi và người già yếu hoặc người khuyết tật.",
-      "3": "Tùy trường hợp.",
-      "4": "Không được phép."
+      "2": "Chở tối đa hai người phía sau khi chở người bệnh đi cấp cứu, áp giải người có hành vi vi phạm pháp luật, trẻ em dưới 12 tuổi và người già yếu hoặc người khuyết tật."
     }
   },
   {
@@ -1012,8 +953,7 @@ var d = {
     "info": {
       "1": "Đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách.",
       "2": "Người lái xe phải đội mũ bảo hiểm, người được chở trên xe không nhất thiết phải đội mũ bảo hiểm.",
-      "3": "Phải đội mũ bảo hiểm nhưng không nhất thiết phải cài quai.",
-      "4": "Không được phép."
+      "3": "Phải đội mũ bảo hiểm nhưng không nhất thiết phải cài quai."
     }
   },
   {
@@ -1027,8 +967,7 @@ var d = {
     "info": {
       "1": "Chở người bệnh đi cấp cứu; áp giải người có hành vi vi phạm pháp luật; trẻ em dưới 12 tuổi; người già yếu hoặc người khuyết tật.",
       "2": "Người đã uống rượu, bia; người trong cơ thể có chất ma tuý.",
-      "3": "Cả hai ý trên.",
-      "4": "Không được phép."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1057,8 +996,7 @@ var d = {
     "info": {
       "1": "Đi xe dàn hàng ngang; đi xe vào phần đường dành cho người đi bộ và phương tiện khác.",
       "2": "Sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1072,8 +1010,7 @@ var d = {
     "info": {
       "1": "Đi trên phần đường, làn đường quy định, chấp hành hiệu lệnh của người điều khiển giao thông, đèn tín hiệu giao thông.",
       "2": "Đi xe dàn hàng ngang, đi xe vào phần đường dành cho người đi bộ.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1102,8 +1039,7 @@ var d = {
     "info": {
       "1": "Chỉ được phép nếu cả hai đội mũ bảo hiểm.",
       "2": "Không được phép.",
-      "3": "Chỉ được thực hiện trên đường vắng.",
-      "4": "Được sử dụng nếu không có áo mưa."
+      "3": "Chỉ được thực hiện trên đường vắng."
     }
   },
   {
@@ -1132,8 +1068,7 @@ var d = {
     "info": {
       "1": "Phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách, không sử dụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính).",
       "2": "Phải đội mũ bảo hiểm khi trời mưa gió hoặc trời quá nắng; có thể sử dụng ô, điện thoại di động, thiết bị âm thanh nhưng phải bảo đảm an toàn.",
-      "3": "Phải đội mũ bảo hiểm khi cảm thấy mất an toàn giao thông hoặc khi chuẩn bị di chuyển quãng đường xa.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Phải đội mũ bảo hiểm khi cảm thấy mất an toàn giao thông hoặc khi chuẩn bị di chuyển quãng đường xa."
     }
   },
   {
@@ -1147,8 +1082,7 @@ var d = {
     "info": {
       "1": "Xe thô sơ, người đi bộ xuống trước, xe cơ giới, xe máy chuyên dùng xuống sau.",
       "2": "Xe cơ giới, xe máy chuyên dùng xuống trước, xe thô sơ, người đi bộ xuống sau.",
-      "3": "Xe cơ giới, xe thô sơ xuống trước, xe máy chuyên dùng, người đi bộ xuống sau.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Xe cơ giới, xe thô sơ xuống trước, xe máy chuyên dùng, người đi bộ xuống sau."
     }
   },
   {
@@ -1162,8 +1096,7 @@ var d = {
     "info": {
       "1": "Cho xe đi trên bất kỳ làn đường nào hoặc giữa 02 làn đường nếu không có xe đi phía trước; khi cần thiết phải chuyển làn đường, người lái xe phải quan sát xe phía trước để bảo đảm an toàn.",
       "2": "Phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề; khi chuyển làn đường phải có tín hiệu báo trước; phải quan sát bảo đảm khoảng cách an toàn với xe phía trước, phía sau và hai bên mới được chuyển làn.",
-      "3": "Phải cho xe đi trong một làn đường, chỉ được chuyển làn đường khi vượt xe phía trước cùng làn đường.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Phải cho xe đi trong một làn đường, chỉ được chuyển làn đường khi vượt xe phía trước cùng làn đường."
     }
   },
   {
@@ -1177,8 +1110,7 @@ var d = {
     "info": {
       "1": "Xe thô sơ phải đi trên làn đường bên trái, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên phải trong cùng.",
       "2": "Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng đi trên làn đường bên trái.",
-      "3": "Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng được đi trên tất cả các làn đường.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Xe thô sơ phải đi trên làn đường bên phải trong cùng, xe cơ giới, xe máy chuyên dùng được đi trên tất cả các làn đường."
     }
   },
   {
@@ -1192,8 +1124,7 @@ var d = {
     "info": {
       "1": "Chỉ được báo hiệu bằng còi.",
       "2": "Phải báo hiệu bằng cả còi và đèn.",
-      "3": "Chỉ được báo hiệu bằng đèn.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Chỉ được báo hiệu bằng đèn."
     }
   },
   {
@@ -1207,8 +1138,7 @@ var d = {
     "info": {
       "1": "Tăng tốc độ và ra hiệu cho xe sau vượt, không được gây trở ngại cho xe xin vượt.",
       "2": "Giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được cản trở đối với xe xin vượt.",
-      "3": "Cho xe đi sát về bên trái của phần đường xe chạy và ra hiệu cho xe sau vượt, không được gây trở ngại cho xe xin vượt.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Cho xe đi sát về bên trái của phần đường xe chạy và ra hiệu cho xe sau vượt, không được gây trở ngại cho xe xin vượt."
     }
   },
   {
@@ -1222,8 +1152,7 @@ var d = {
     "info": {
       "1": "Có tín hiệu rẽ trái để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết là chưa được vượt.",
       "2": "Tiếp tục đi cho đến khi đủ điều kiện an toàn, nếu xe sau vẫn xin vượt thì báo hiệu cho xe sau vượt.",
-      "3": "Tăng tốc độ để báo hiệu cho xe xin vượt biết là chưa được vượt.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Tăng tốc độ để báo hiệu cho xe xin vượt biết là chưa được vượt."
     }
   },
   {
@@ -1237,8 +1166,7 @@ var d = {
     "info": {
       "1": "Phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều và chỉ chuyển hướng khi không gây trở ngại hoặc nguy hiểm cho người, phương tiện khác.",
       "2": "Nhanh chóng chuyển hướng để không gây trở ngại hoặc nguy hiểm cho người, phương tiện khác.",
-      "3": "Ra tín hiệu chuyển hướng để yêu cầu các phương tiện khác dừng lại cho xe chuyển hướng di chuyển.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Ra tín hiệu chuyển hướng để yêu cầu các phương tiện khác dừng lại cho xe chuyển hướng di chuyển."
     }
   },
   {
@@ -1252,8 +1180,7 @@ var d = {
     "info": {
       "1": "Quan sát gương, nếu không có phương tiện gần hướng rẽ thì nhanh chóng chuyển hướng.",
       "2": "Quan sát, bảo đảm khoảng cách an toàn với xe phía sau, giảm tốc độ và có tín hiệu báo hướng rẽ hoặc có tín hiệu bằng tay theo hướng rẽ đối với xe thô sơ không có đèn báo hướng rẽ, chuyển dần sang làn gần nhất với hướng rẽ. Tín hiệu báo hướng rẽ hoặc tín hiệu bằng tay phải sử dụng liên tục trong quá trình chuyển hướng. Khi bảo đảm an toàn, không gây trở ngại cho người và phương tiện khác mới được chuyển hướng.",
-      "3": "Quan sát gương, tăng tốc độ, ra tín hiệu và chuyển hướng.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Quan sát gương, tăng tốc độ, ra tín hiệu và chuyển hướng."
     }
   },
   {
@@ -1267,8 +1194,7 @@ var d = {
     "info": {
       "1": "Quan sát phía sau và cho lùi xe ở tốc độ chậm.",
       "2": "Có tín hiệu báo lùi, nếu phía sau không có người hoặc phương tiện khác thì nhanh chóng lùi để bảo đảm an toàn.",
-      "3": "Phải quan sát hai bên và phía sau xe, có tín hiệu lùi và chỉ lùi xe khi bảo đảm an toàn.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Phải quan sát hai bên và phía sau xe, có tín hiệu lùi và chỉ lùi xe khi bảo đảm an toàn."
     }
   },
   {
@@ -1282,8 +1208,7 @@ var d = {
     "info": {
       "1": "Phải lùi thật chậm.",
       "2": "Bấm còi 3 lần liên tiếp trước khi lùi.",
-      "3": "Không được lùi xe.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Không được lùi xe."
     }
   },
   {
@@ -1297,8 +1222,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ và cho xe đi về bên phải theo chiều xe chạy của mình.",
       "2": "Một trong hai xe phải dừng lại cho xe kia đi qua mới được đi.",
-      "3": "Tăng tốc độ, cho xe đi về bên phải theo chiều xe chạy của mình để nhanh chóng vượt qua.",
-      "4": "Xử phạt cả người điều khiển và người được chở trên xe mô tô, xe gắn máy."
+      "3": "Tăng tốc độ, cho xe đi về bên phải theo chiều xe chạy của mình để nhanh chóng vượt qua."
     }
   },
   {
@@ -1327,8 +1251,7 @@ var d = {
     "info": {
       "1": "Tiếp tục đi và phát tín hiệu cho xe lên dốc nhường đường cho xe bạn.",
       "2": "Nhường đường cho xe lên dốc.",
-      "3": "Chỉ nhường đường khi xe lên dốc nháy đèn.",
-      "4": "Cả ba ý trên."
+      "3": "Chỉ nhường đường khi xe lên dốc nháy đèn."
     }
   },
   {
@@ -1342,8 +1265,7 @@ var d = {
     "info": {
       "1": "Quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn.",
       "2": "Đi sang làn đường của xe ngược chiều để mở rộng tầm nhìn và vượt xe khác.",
-      "3": "Cho xe đi sát bên phải làn đường, bật tín hiệu báo hiệu để vượt bên phải xe khác.",
-      "4": "Cả ba ý trên."
+      "3": "Cho xe đi sát bên phải làn đường, bật tín hiệu báo hiệu để vượt bên phải xe khác."
     }
   },
   {
@@ -1357,8 +1279,7 @@ var d = {
     "info": {
       "1": "Nhường đường cho xe đi ở bên phải mình tới.",
       "2": "Nhường đường cho xe đi ở bên trái mình tới.",
-      "3": "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.",
-      "4": "Cả ba ý trên."
+      "3": "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới."
     }
   },
   {
@@ -1372,8 +1293,7 @@ var d = {
     "info": {
       "1": "Nhường đường cho xe đi đến từ bên phải.",
       "2": "Nhường đường cho xe đi đến từ bên trái.",
-      "3": "Không phải nhường đường.",
-      "4": "Cả ba ý trên."
+      "3": "Không phải nhường đường."
     }
   },
   {
@@ -1387,8 +1307,7 @@ var d = {
     "info": {
       "1": "Phải nhường đường cho xe đi đến từ bên phải.",
       "2": "Xe báo hiệu xin đường trước, xe đó được đi trước.",
-      "3": "Phải nhường đường cho xe đi đến từ bên trái.",
-      "4": "Cả ba ý trên."
+      "3": "Phải nhường đường cho xe đi đến từ bên trái."
     }
   },
   {
@@ -1402,8 +1321,7 @@ var d = {
     "info": {
       "1": "Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác; xe của lực lượng quân sự, công an và kiểm sát; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứu thương; xe hộ đê không có tín hiệu ưu tiên theo quy định.",
       "2": "Xe ưu tiên gồm xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy; xe của lực lượng quân sự, công an và kiểm sát đi làm nhiệm vụ khẩn cấp; đoàn xe có xe Cảnh sát giao thông dẫn đường; xe cứu thương đi làm nhiệm vụ cấp cứu; xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật; đoàn xe tang.",
-      "3": "Xe ô tô, xe máy, đoàn xe đang diễu hành có tổ chức có báo tín hiệu xin vượt bằng còi và đèn.",
-      "4": "Cả ba ý trên."
+      "3": "Xe ô tô, xe máy, đoàn xe đang diễu hành có tổ chức có báo tín hiệu xin vượt bằng còi và đèn."
     }
   },
   {
@@ -1432,8 +1350,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ, đi sát lề đường bên phải hoặc dừng lại để nhường đường.",
       "2": "Tăng tốc độ và đi sát lề đường bên phải để nhường đường.",
-      "3": "Giảm tốc độ, đi sát lề đường bên trái để nhường đường.",
-      "4": "Cả ba ý trên."
+      "3": "Giảm tốc độ, đi sát lề đường bên trái để nhường đường."
     }
   },
   {
@@ -1447,8 +1364,7 @@ var d = {
     "info": {
       "1": "Không được vượt.",
       "2": "Được phép vượt ở phần đường dành cho người đi bộ qua đường.",
-      "3": "Được vượt khi bảo đảm an toàn.",
-      "4": "Cả ba ý trên."
+      "3": "Được vượt khi bảo đảm an toàn."
     }
   },
   {
@@ -1477,8 +1393,7 @@ var d = {
     "info": {
       "1": "Dừng lại về bên phải đường của mình, trước vạch dừng xe và quan sát hai phía, khi không có phương tiện giao thông đường sắt tới mới được đi qua.",
       "2": "Quan sát hai phía, khi không có phương tiện giao thông đường sắt tới thì nhanh chóng đi qua.",
-      "3": "Dừng lại khoảng cách tối thiểu 3 mét tính từ ray đường sắt gần nhất, khi không có phương tiện giao thông đường sắt tới thì nhanh chóng đi qua.",
-      "4": "Được vượt khi bảo đảm an toàn."
+      "3": "Dừng lại khoảng cách tối thiểu 3 mét tính từ ray đường sắt gần nhất, khi không có phương tiện giao thông đường sắt tới thì nhanh chóng đi qua."
     }
   },
   {
@@ -1492,8 +1407,7 @@ var d = {
     "info": {
       "1": "Dừng lại về bên trái đường của mình, trước vạch dừng xe.",
       "2": "Dừng lại giữa đường của mình, trước vạch dừng xe.",
-      "3": "Dừng lại về bên phải đường của mình, trước vạch dừng xe.",
-      "4": "Được vượt khi bảo đảm an toàn."
+      "3": "Dừng lại về bên phải đường của mình, trước vạch dừng xe."
     }
   },
   {
@@ -1507,8 +1421,7 @@ var d = {
     "info": {
       "1": "Người lái xe và người có mặt phải ngay lập tức báo hiệu để dừng tàu, thực hiện các biện pháp bảo đảm an toàn.",
       "2": "Để xe lại, tìm cách báo cho người quản lý đường sắt, nhà ga nơi gần nhất.",
-      "3": "Không di chuyển phương tiện, tự khắc phục sửa chữa.",
-      "4": "Được vượt khi bảo đảm an toàn."
+      "3": "Không di chuyển phương tiện, tự khắc phục sửa chữa."
     }
   },
   {
@@ -1537,8 +1450,7 @@ var d = {
     "info": {
       "1": "Xe cơ giới, xe máy chuyên dùng phải bật đèn chiếu gần; xe thô sơ phải bật đèn hoặc có vật phát sáng báo hiệu; không dừng xe, đỗ xe trong hầm đường bộ; trường hợp gặp sự cố kỹ thuật hoặc bất khả kháng khác buộc phải dừng xe, đỗ xe, người lái xe, người điều khiển xe máy chuyên dùng phải đưa xe vào vị trí dừng xe, đỗ xe khẩn cấp, nếu không di chuyển được, phải có báo hiệu bằng đèn khẩn cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách bảo đảm an toàn.",
       "2": "Xe cơ giới, xe máy chuyên dùng phải bật đèn chiếu xa; được dừng xe, đỗ xe khi cần thiết.",
-      "3": "Phải cho xe chạy trên một làn đường và chỉ chuyển làn ở nơi được phép; được quay đầu xe, lùi xe khi cần thiết.",
-      "4": "Cả ba ý trên."
+      "3": "Phải cho xe chạy trên một làn đường và chỉ chuyển làn ở nơi được phép; được quay đầu xe, lùi xe khi cần thiết."
     }
   },
   {
@@ -1552,8 +1464,7 @@ var d = {
     "info": {
       "1": "Nối bằng dây cáp có độ dài 6 mét.",
       "2": "Nối bằng dây cáp có độ dài 8 mét.",
-      "3": "Nối bằng thanh nối cứng.",
-      "4": "Cả ba ý trên."
+      "3": "Nối bằng thanh nối cứng."
     }
   },
   {
@@ -1567,8 +1478,7 @@ var d = {
     "info": {
       "1": "Chỉ được kéo rơ moóc, sơ mi rơ moóc phù hợp với thiết kế của xe; việc kết nối xe kéo với rơ moóc, xe ô tô đầu kéo với sơ mi rơ moóc phải bảo đảm chắc chắn, an toàn.",
       "2": "Phải có tổng trọng lượng tương đương tổng trọng lượng của rơ moóc hoặc phải có hệ thống hãm có hiệu lực cho rơ moóc.",
-      "3": "Phải được lắp phanh phụ theo quy định để đảm bảo an toàn.",
-      "4": "Cả ba ý trên."
+      "3": "Phải được lắp phanh phụ theo quy định để đảm bảo an toàn."
     }
   },
   {
@@ -1582,8 +1492,7 @@ var d = {
     "info": {
       "1": "Một xe ô tô được kéo theo nhiều xe ô tô hoặc xe máy chuyên dùng khác khi xe được kéo không tự chạy được (trừ trường hợp xe vận chuyển hàng siêu trường, siêu trọng).",
       "2": "Xe được kéo phải có người điều khiển và hệ thống lái của xe đó phải còn hiệu lực; việc nối xe kéo với xe được kéo phải bảo đảm chắc chắn, an toàn; trường hợp hệ thống hãm của xe được kéo không còn hiệu lực thì xe kéo nhau phải nối bằng thanh nối cứng. Phía trước của xe kéo và phía sau của xe được kéo phải có biển báo hiệu, có đèn cảnh báo nhấp nháy màu vàng.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1612,8 +1521,7 @@ var d = {
     "info": {
       "1": "Có chướng ngại vật phía trước, xe chạy phía trước có tín hiệu vượt xe khác.",
       "2": "Xe chạy phía trước đã có tín hiệu rẽ phải và tránh về bên phải.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1627,8 +1535,7 @@ var d = {
     "info": {
       "1": "Xe phía trước có tín hiệu rẽ trái hoặc đang rẽ trái hoặc khi xe chuyên dùng đang làm việc trên đường mà không thể vượt bên trái.",
       "2": "Xe phía trước đang đi sát lề đường bên trái.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1642,8 +1549,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ, có tín hiệu rẽ phải để báo hiệu cho người điều khiển phương tiện tham gia giao thông đường bộ phía sau biết được vượt và đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được cản trở đối với xe xin vượt.",
       "2": "Lái xe vào lề đường bên trái và giảm tốc độ để xe phía sau vượt qua, không được gây trở ngại đối với xe xin vượt.",
-      "3": "Tăng tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua.",
-      "4": "Cả ba ý trên."
+      "3": "Tăng tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua."
     }
   },
   {
@@ -1657,8 +1563,7 @@ var d = {
     "info": {
       "1": "Xe máy chuyên dùng có tốc độ thiết kế nhỏ hơn tốc độ tối thiểu quy định đối với đường cao tốc, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ.",
       "2": "Xe máy chuyên dùng có tốc độ thiết kế lớn hơn tốc độ tối thiểu quy định đối với đường cao tốc.",
-      "3": "Xe ô tô và xe máy chuyên dùng có tốc độ thiết kế lớn hơn 80 km/h.",
-      "4": "Cả ba ý trên."
+      "3": "Xe ô tô và xe máy chuyên dùng có tốc độ thiết kế lớn hơn 80 km/h."
     }
   },
   {
@@ -1672,8 +1577,7 @@ var d = {
     "info": {
       "1": "Được đi ngược chiều bất cứ làn đường nào của đường cao tốc có thể đi được.",
       "2": "Chỉ được đi ngược chiều trên làn dừng xe khẩn cấp.",
-      "3": "Chỉ được đi ngược chiều trên làn đường sát dải phân cách của đường cao tốc.",
-      "4": "Cả ba ý trên."
+      "3": "Chỉ được đi ngược chiều trên làn đường sát dải phân cách của đường cao tốc."
     }
   },
   {
@@ -1687,8 +1591,7 @@ var d = {
     "info": {
       "1": "Dừng, đỗ xe trên phần đường xe chạy, trừ trường hợp xe không thể di chuyển được vào làn đường khẩn cấp.",
       "2": "Lùi xe, quay đầu xe.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1702,8 +1605,7 @@ var d = {
     "info": {
       "1": "Bật đèn tín hiệu khẩn cấp, dừng xe ngay lập tức và đặt biển báo hiệu nguy hiểm để cảnh báo cho các xe khác.",
       "2": "Bật tín hiệu khẩn cấp, lập tức đưa xe vào làn đường xe chạy bên phải trong cùng, đặt biển báo hiệu nguy hiểm để cảnh báo cho các xe khác.",
-      "3": "Dừng xe, đỗ xe ở làn dừng khẩn cấp cùng chiều xe chạy và phải có báo hiệu bằng đèn khẩn cấp; trường hợp xe không thể di chuyển được vào làn dừng khẩn cấp, phải có báo hiệu bằng đèn khẩn cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách tối thiểu 150 mét, nhanh chóng báo cho cơ quan Cảnh sát giao thông thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông trên tuyến hoặc cơ quan quản lý đường cao tốc.",
-      "4": "Cả ba ý trên."
+      "3": "Dừng xe, đỗ xe ở làn dừng khẩn cấp cùng chiều xe chạy và phải có báo hiệu bằng đèn khẩn cấp; trường hợp xe không thể di chuyển được vào làn dừng khẩn cấp, phải có báo hiệu bằng đèn khẩn cấp và đặt biển hoặc đèn cảnh báo về phía sau xe khoảng cách tối thiểu 150 mét, nhanh chóng báo cho cơ quan Cảnh sát giao thông thực hiện nhiệm vụ bảo đảm trật tự, an toàn giao thông trên tuyến hoặc cơ quan quản lý đường cao tốc."
     }
   },
   {
@@ -1717,8 +1619,7 @@ var d = {
     "info": {
       "1": "Quay đầu xe, chạy trên lề đường có lối ra và rẽ khỏi đường cao tốc.",
       "2": "Lùi xe trên lề đường có lối ra và rẽ khỏi đường cao tốc.",
-      "3": "Tiếp tục lái xe và rẽ ở lối ra tiếp theo.",
-      "4": "Cả ba ý trên."
+      "3": "Tiếp tục lái xe và rẽ ở lối ra tiếp theo."
     }
   },
   {
@@ -1731,9 +1632,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Có.",
-      "2": "Không.",
-      "3": "Tiếp tục lái xe và rẽ ở lối ra tiếp theo.",
-      "4": "Cả ba ý trên."
+      "2": "Không."
     }
   },
   {
@@ -1762,8 +1661,7 @@ var d = {
     "info": {
       "1": "18 tuổi.",
       "2": "17 tuổi.",
-      "3": "16 tuổi.",
-      "4": "Cả ba ý trên."
+      "3": "16 tuổi."
     }
   },
   {
@@ -1777,8 +1675,7 @@ var d = {
     "info": {
       "1": "16 tuổi.",
       "2": "17 tuổi",
-      "3": "18 tuổi.",
-      "4": "Cả ba ý trên."
+      "3": "18 tuổi."
     }
   },
   {
@@ -1807,8 +1704,7 @@ var d = {
     "info": {
       "1": "Đủ 55 tuổi đối với nam và đủ 50 tuổi đối với nữ.",
       "2": "Đủ 55 tuổi đối với nam và nữ.",
-      "3": "Đủ 57 tuổi đối với nam và đủ 55 tuổi đối với nữ.",
-      "4": "30 tuổi."
+      "3": "Đủ 57 tuổi đối với nam và đủ 55 tuổi đối với nữ."
     }
   },
   {
@@ -1822,8 +1718,7 @@ var d = {
     "info": {
       "1": "23 tuổi.",
       "2": "24 tuổi.",
-      "3": "22 tuổi.",
-      "4": "30 tuổi."
+      "3": "22 tuổi."
     }
   },
   {
@@ -1852,8 +1747,7 @@ var d = {
     "info": {
       "1": "Xe mô tô hai bánh có dung tích xi-lanh 125 cm3 hoặc có công suất động cơ điện đến 11 kW.",
       "2": "Xe mô tô ba bánh.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1867,8 +1761,7 @@ var d = {
     "info": {
       "1": "Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW.",
       "2": "Xe mô tô ba bánh.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1882,8 +1775,7 @@ var d = {
     "info": {
       "1": "Xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW.",
       "2": "Xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1897,8 +1789,7 @@ var d = {
     "info": {
       "1": "Xe ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe).",
       "2": "Xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế đến 3.500 kg.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1912,8 +1803,7 @@ var d = {
     "info": {
       "1": "Xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
       "2": "Xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1927,8 +1817,7 @@ var d = {
     "info": {
       "1": "Xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 3.500 kg đến 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
       "2": "Xe ô tô tải và ô tô chuyên dùng có khối lượng toàn bộ theo thiết kế trên 7.500 kg; các loại xe ô tô tải quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1942,8 +1831,7 @@ var d = {
     "info": {
       "1": "Xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
       "2": "Xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1957,8 +1845,7 @@ var d = {
     "info": {
       "1": "Xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
       "2": "Xe ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) đến 16 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -1987,8 +1874,7 @@ var d = {
     "info": {
       "1": "Xe ô tô chở người (kể cả xe buýt) trên 29 chỗ (không kể chỗ của người lái xe); xe ô tô chở người giường nằm.",
       "2": "Các loại xe ô tô quy định cho giấy phép lái xe hạng B kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg.",
-      "3": "Xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg.",
-      "4": "Ý 1 và ý 2."
+      "3": "Xe ô tô chở người (kể cả xe buýt) trên 16 chỗ (không kể chỗ của người lái xe) đến 29 chỗ (không kể chỗ của người lái xe); các loại xe ô tô chở người quy định cho giấy phép lái xe hạng D2 kéo rơ moóc có khối lượng toàn bộ theo thiết kế đến 750 kg."
     }
   },
   {
@@ -2002,8 +1888,7 @@ var d = {
     "info": {
       "1": "Các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc.",
       "2": "Các loại xe ô tô quy định cho giấy phép lái xe hạng D1 kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2017,8 +1902,7 @@ var d = {
     "info": {
       "1": "Các loại xe ô tô quy định cho giấy phép lái xe hạng D kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô chở khách nối toa.",
       "2": "Các loại xe ô tô quy định cho giấy phép lái xe hạng C kéo rơ moóc có khối lượng toàn bộ theo thiết kế trên 750 kg; xe ô tô đầu kéo kéo sơ mi rơ moóc.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2032,8 +1916,7 @@ var d = {
     "info": {
       "1": "Phải thực hành trên xe tập lái, trên tuyến đường tập lái và có giáo viên dạy lái bảo trợ tay lái.",
       "2": "Phải mang theo giấy phép xe tập lái.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2047,8 +1930,7 @@ var d = {
     "info": {
       "1": "Phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lực phù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp (trừ người lái xe gắn máy).",
       "2": "Phải là người đứng tên trong đăng ký xe.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2091,9 +1973,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Không được phục hồi.",
-      "2": "Được phục hồi đủ 12 điểm, nếu không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gần nhất.",
-      "3": "Giấy phép lái xe đã quá thời hạn tạm giữ hoặc hết thời hiệu thi hành quyết định xử phạt vi phạm hành chính theo quy định của pháp luật về xử lý vi phạm hành chính nếu người vi phạm không đến nhận mà không có lý do chính đáng.",
-      "4": "Cả ba ý trên."
+      "2": "Được phục hồi đủ 12 điểm, nếu không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gần nhất."
     }
   },
   {
@@ -2107,8 +1987,7 @@ var d = {
     "info": {
       "1": "Không vi phạm pháp luật trật tự, an toàn giao thông đường bộ trong thời gian 12 tháng kể từ ngày bị trừ hết điểm.",
       "2": "Sau thời hạn ít nhất là 06 tháng kể từ ngày bị trừ hết điểm, người có phép lái xe được tham gia kiểm tra nội dung kiến thức pháp luật về trật tự, an toàn giao thông đường bộ theo quy định, có kết quả đạt yêu cầu thì được phục hồi đủ 12 điểm.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2121,9 +2000,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Tiếp tục chịu trách nhiệm của chủ xe.",
-      "2": "Không chịu trách nhiệm sau khi đã chuyển nhượng, trao đổi, tặng, cho.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "2": "Không chịu trách nhiệm sau khi đã chuyển nhượng, trao đổi, tặng, cho."
     }
   },
   {
@@ -2137,8 +2014,7 @@ var d = {
     "info": {
       "1": "Xe ô tô kinh doanh vận tải.",
       "2": "Xe ô tô chở người từ 08 chỗ trở lên (không kể chỗ của người lái xe) kinh doanh vận tải, xe ô tô đầu kéo, xe cứu thương.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2152,8 +2028,7 @@ var d = {
     "info": {
       "1": "50 km/h.",
       "2": "40 km/h.",
-      "3": "60 km/h.",
-      "4": "Cả ba ý trên."
+      "3": "60 km/h."
     }
   },
   {
@@ -2167,8 +2042,7 @@ var d = {
     "info": {
       "1": "60 km/h.",
       "2": "50 km/h.",
-      "3": "40 km/h.",
-      "4": "Cả ba ý trên."
+      "3": "40 km/h."
     }
   },
   {
@@ -2182,8 +2056,7 @@ var d = {
     "info": {
       "1": "60 km/h.",
       "2": "50 km/h.",
-      "3": "40 km/h.",
-      "4": "Cả ba ý trên."
+      "3": "40 km/h."
     }
   },
   {
@@ -2197,8 +2070,7 @@ var d = {
     "info": {
       "1": "Ô tô tải, ô tô chở người trên 28 chỗ không kể chỗ của người lái xe.",
       "2": "Xe gắn máy, xe máy chuyên dùng.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2212,8 +2084,7 @@ var d = {
     "info": {
       "1": "Ô tô tải, ô tô chở người trên 28 chỗ không kể chỗ của người lái xe.",
       "2": "Xe gắn máy, xe máy chuyên dùng.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2227,8 +2098,7 @@ var d = {
     "info": {
       "1": "Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.",
       "2": "Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).",
-      "3": "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).",
-      "4": "Cả ba ý trên."
+      "3": "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động)."
     }
   },
   {
@@ -2287,8 +2157,7 @@ var d = {
     "info": {
       "1": "Xe ô tô chở người đến 28 chỗ không kể chỗ của người lái xe (trừ xe buýt); ô tô tải có trọng tải không lớn hơn 3,5 tấn.",
       "2": "Xe ô tô chở người trên 28 chỗ không kể chỗ người lái xe (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc).",
-      "3": "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động).",
-      "4": "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc."
+      "3": "Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động)."
     }
   },
   {
@@ -2347,8 +2216,7 @@ var d = {
     "info": {
       "1": "Xe máy chuyên dùng, xe gắn máy và các loại xe tương tự.",
       "2": "Xe chở người bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động.",
-      "3": "Xe chở hàng bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động.",
-      "4": "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc."
+      "3": "Xe chở hàng bốn bánh có gắn động cơ khi tham gia giao thông trong phạm vi và thời gian cho phép hoạt động."
     }
   },
   {
@@ -2362,8 +2230,7 @@ var d = {
     "info": {
       "1": "35 m.",
       "2": "55 m.",
-      "3": "70 m.",
-      "4": "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc."
+      "3": "70 m."
     }
   },
   {
@@ -2377,8 +2244,7 @@ var d = {
     "info": {
       "1": "55 m.",
       "2": "70 m.",
-      "3": "100 m.",
-      "4": "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc."
+      "3": "100 m."
     }
   },
   {
@@ -2392,8 +2258,7 @@ var d = {
     "info": {
       "1": "55 m.",
       "2": "70 m.",
-      "3": "100 m.",
-      "4": "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc."
+      "3": "100 m."
     }
   },
   {
@@ -2407,8 +2272,7 @@ var d = {
     "info": {
       "1": "35 m.",
       "2": "55 m.",
-      "3": "70 m.",
-      "4": "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc."
+      "3": "70 m."
     }
   },
   {
@@ -2422,8 +2286,7 @@ var d = {
     "info": {
       "1": "Chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình.",
       "2": "Bảo đảm khoảng cách an toàn tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế.",
-      "3": "Cả hai ý trên.",
-      "4": "Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông lưu động, ô tô xi téc, ô tô đầu kéo kéo sơ mi rơ moóc xi téc, ô tô kéo theo rơ moóc xi téc."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2452,8 +2315,7 @@ var d = {
     "info": {
       "1": "Tổ chức phân luồng, điều tiết giao thông, bố trí nơi dừng xe, đỗ xe tại khu vực trường học và tại các điểm trên lộ trình đưa đón trẻ em mầm non, học sinh.",
       "2": "Được bố trí xe dẫn đường để bảo đảm an toàn giao thông.",
-      "3": "Cả hai ý trên.",
-      "4": "Gặp biển báo hết hạn chế tốc độ tối đa cho phép."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2482,8 +2344,7 @@ var d = {
     "info": {
       "1": "Được phép lái xe không hạn chế tốc độ và khoảng cách an toàn tối thiểu với xe phía trước cùng làn đường hoặc phần đường.",
       "2": "Được phép lái xe không hạn chế tốc độ và khoảng cách an toàn tối thiểu với xe phía trước cùng làn đường hoặc phần đường khi tham gia giao thông trên đường nhánh.",
-      "3": "Chấp hành quy định về tốc độ, khoảng cách an toàn tối thiểu với xe phía trước cùng làn đường hoặc phần đường.",
-      "4": "Cả ba ý trên."
+      "3": "Chấp hành quy định về tốc độ, khoảng cách an toàn tối thiểu với xe phía trước cùng làn đường hoặc phần đường."
     }
   },
   {
@@ -2496,9 +2357,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Tăng tốc độ để nhanh chóng vượt qua xe buýt.",
-      "2": "Quan sát, giảm tốc độ đi qua xe buýt hoặc dừng lại để bảo đảm an toàn.",
-      "3": "Chấp hành quy định về tốc độ, khoảng cách an toàn tối thiểu với xe phía trước cùng làn đường hoặc phần đường.",
-      "4": "Cả ba ý trên."
+      "2": "Quan sát, giảm tốc độ đi qua xe buýt hoặc dừng lại để bảo đảm an toàn."
     }
   },
   {
@@ -2511,9 +2370,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Đón, trả hành khách đúng nơi quy định; hướng dẫn sử dụng trang thiết bị an toàn trên xe; có biện pháp giữ gìn vệ sinh trong xe; vận chuyển hành khách đúng lịch trình, lộ trình đã đăng ký, trừ trường hợp bất khả kháng; không chở hành khách trên nóc xe, trong khoang chở hành lý hoặc để hành khách đu, bám bên ngoài xe.",
-      "2": "Đón, trả hành khách theo yêu cầu của hành khách trên xe; hướng dẫn sử dụng trang thiết bị an toàn trên xe; có biện pháp giữ gìn vệ sinh trong xe; vận chuyển hành khách đúng lịch trình, lộ trình đã đăng ký, trừ trường hợp bất khả kháng; không chở hành khách trên nóc xe, trong khoang chở hành lý hoặc để hành khách đu, bám bên ngoài xe.",
-      "3": "Chấp hành quy định về tốc độ, khoảng cách an toàn tối thiểu với xe phía trước cùng làn đường hoặc phần đường.",
-      "4": "Cả ba ý trên."
+      "2": "Đón, trả hành khách theo yêu cầu của hành khách trên xe; hướng dẫn sử dụng trang thiết bị an toàn trên xe; có biện pháp giữ gìn vệ sinh trong xe; vận chuyển hành khách đúng lịch trình, lộ trình đã đăng ký, trừ trường hợp bất khả kháng; không chở hành khách trên nóc xe, trong khoang chở hành lý hoặc để hành khách đu, bám bên ngoài xe."
     }
   },
   {
@@ -2631,9 +2488,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Phải có giấy phép vận chuyển; trong trường hợp cần thiết, đơn vị vận chuyển hàng hoá nguy hiểm phải bố trí người áp tải để bảo đảm trật tự, an toàn giao thông đường bộ.",
-      "2": "Phải có giấy phép vận chuyển; không phải bố trí người áp tải khi tham gia giao thông đường bộ.",
-      "3": "Trong quá trình vận chuyển phải chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ, vệ sinh dịch tễ, phòng dịch và bảo đảm vệ sinh môi trường.",
-      "4": "Cả ba ý trên."
+      "2": "Phải có giấy phép vận chuyển; không phải bố trí người áp tải khi tham gia giao thông đường bộ."
     }
   },
   {
@@ -2662,8 +2517,7 @@ var d = {
     "info": {
       "1": "Kiểm tra điều kiện bảo đảm an toàn của xe trước khi tham gia giao thông đường bộ; mang đủ giấy tờ theo quy định của pháp luật.",
       "2": "Kiểm tra việc sắp xếp hàng hóa bảo đảm an toàn; không chở quá số người, chở hành lý, hàng hoá vượt quá khối lượng cho phép hoặc vượt quá khổ giới hạn của xe.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2676,9 +2530,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Phải chạy với tốc độ quy định trong giấy phép và phải có báo hiệu kích thước của hàng; trường hợp cần thiết, phải có người, phương tiện hỗ trợ lái xe, cảnh báo cho người, phương tiện tham gia giao thông đường bộ khác và thực hiện các biện pháp bảo đảm an toàn giao thông khi vận chuyển hàng siêu trường, siêu trọng trên đường bộ.",
-      "2": "Phải chạy với tốc độ quy định trong giấy phép; phải có người, phương tiện hỗ trợ lái xe, cảnh báo cho người, phương tiện tham gia giao thông đường bộ khác và thực hiện các biện pháp bảo đảm an toàn giao thông khi vận chuyển hàng siêu trường, siêu trọng trên đường dành cho giao thông công cộng.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "2": "Phải chạy với tốc độ quy định trong giấy phép; phải có người, phương tiện hỗ trợ lái xe, cảnh báo cho người, phương tiện tham gia giao thông đường bộ khác và thực hiện các biện pháp bảo đảm an toàn giao thông khi vận chuyển hàng siêu trường, siêu trọng trên đường dành cho giao thông công cộng."
     }
   },
   {
@@ -2692,8 +2544,7 @@ var d = {
     "info": {
       "1": "Xe cứu hộ giao thông đường bộ phải có dấu hiệu nhận diện, niêm yết thông tin trên xe, gắn thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe.",
       "2": "Phải tuân thủ quy định của pháp luật về khối lượng hàng hóa chuyên chở của xe cứu hộ và khối lượng của xe được cứu hộ ghi trên Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2707,8 +2558,7 @@ var d = {
     "info": {
       "1": "Được khách hàng, xã hội tôn trọng; được đồng nghiệp quý mến, giúp đỡ; được doanh nghiệp tin dùng và đóng góp nhiều cho xã hội; thu hút được khách hàng, góp phần quan trọng trong xây dựng thương hiệu, kinh doanh có hiệu quả cao.",
       "2": "Được cộng điểm vào giấy phép lái xe.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2737,8 +2587,7 @@ var d = {
     "info": {
       "1": "Quản lý và sử dụng xe tốt; bảo dưỡng xe đúng định kỳ; thực hành tiết kiệm vật tư, nhiên liệu; luôn tu dưỡng bản thân, có lối sống lành mạnh, tác phong làm việc công nghiệp.",
       "2": "Nắm vững và tự giác chấp hành các quy định của pháp luật về trật tự, an toàn giao thông đường bộ, lái xe an toàn; thực hiện đầy đủ trách nhiệm với khách hàng; có ý thức tổ chức kỷ luật và xây dựng doanh nghiệp vững mạnh; có tinh thần hợp tác, tương trợ, giúp đỡ đồng nghiệp.",
-      "3": "Cả hai ý trên.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2752,8 +2601,7 @@ var d = {
     "info": {
       "1": "Phải có thái độ lịch sự, tôn trọng, thân mật với hành khách; giúp đỡ những người có hoàn cảnh khó khăn, người già, người khuyết tật, phụ nữ có thai, có con nhỏ và trẻ em.",
       "2": "Luôn tu dưỡng bản thân, có lối sống lành mạnh, khiêm tốn, có tác phong làm việc công nghiệp, không tham gia vào các tệ nạn xã hội; tôn trọng người cùng tham gia giao thông đường bộ và có ý thức bảo vệ môi trường.",
-      "3": "Cả hai ý trên.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2767,8 +2615,7 @@ var d = {
     "info": {
       "1": "Là sự hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông, là ý thức trách nhiệm với cộng đồng khi tham gia giao thông.",
       "2": "Là sự tôn trọng, nhường nhịn, giúp đỡ và ứng xử có văn hóa giữa những người tham gia giao thông với nhau.",
-      "3": "Cả hai ý trên.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -2782,8 +2629,7 @@ var d = {
     "info": {
       "1": "Cho xe chạy thật nhanh qua vũng nước.",
       "2": "Giảm tốc độ cho xe chạy chậm qua vũng nước.",
-      "3": "Giảm tốc độ cho xe chạy qua làn đường dành cho mô tô để tránh vũng nước.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "3": "Giảm tốc độ cho xe chạy qua làn đường dành cho mô tô để tránh vũng nước."
     }
   },
   {
@@ -2796,9 +2642,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Là thiếu văn hóa giao thông, vi phạm pháp luật về trật tự, an toàn giao thông đường bộ.",
-      "2": "Là thiếu văn hóa giao thông.",
-      "3": "Giảm tốc độ cho xe chạy qua làn đường dành cho mô tô để tránh vũng nước.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "2": "Là thiếu văn hóa giao thông."
     }
   },
   {
@@ -2811,9 +2655,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Thực hiện cầm máu trực tiếp.",
-      "2": "Thực hiện cầm máu không trực tiếp (chặn động mạch).",
-      "3": "Giảm tốc độ cho xe chạy qua làn đường dành cho mô tô để tránh vũng nước.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "2": "Thực hiện cầm máu không trực tiếp (chặn động mạch)."
     }
   },
   {
@@ -2826,9 +2668,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Hiểu biết và chấp hành nghiêm chỉnh pháp luật về giao thông đường bộ; có ý thức trách nhiệm với cộng đồng khi tham gia giao thông; tôn trọng, nhường nhịn, giúp đỡ và ứng xử có văn hóa với những người cùng tham gia giao thông.",
-      "2": "Điều khiển xe vượt quá tốc độ, đi không đúng làn đường.",
-      "3": "Giảm tốc độ cho xe chạy qua làn đường dành cho mô tô để tránh vũng nước.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "2": "Điều khiển xe vượt quá tốc độ, đi không đúng làn đường."
     }
   },
   {
@@ -2841,9 +2681,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Điều khiển xe đi trên phần đường, làn đường có ít phương tiện tham gia giao thông, chỉ đội mũ bảo hiểm ở nơi có biển báo bắt buộc đội mũ bảo hiểm.",
-      "2": "Chấp hành hiệu lệnh, chỉ dẫn của người điều khiển giao thông, quy định về tốc độ, tín hiệu đèn, biển báo hiệu, vạch kẻ đường khi lái xe; nhường đường cho người đi bộ, người già, trẻ em, người khuyết tật.",
-      "3": "Giảm tốc độ cho xe chạy qua làn đường dành cho mô tô để tránh vũng nước.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "2": "Chấp hành hiệu lệnh, chỉ dẫn của người điều khiển giao thông, quy định về tốc độ, tín hiệu đèn, biển báo hiệu, vạch kẻ đường khi lái xe; nhường đường cho người đi bộ, người già, trẻ em, người khuyết tật."
     }
   },
   {
@@ -2857,8 +2695,7 @@ var d = {
     "info": {
       "1": "Điều khiển xe đi bên phải theo chiều đi của mình; đi đúng phần đường, làn đường quy định; đội mũ bảo hiểm đúng quy chuẩn kỹ thuật quốc gia, cài quai đúng quy cách.",
       "2": "Điều khiển xe đi trên phần đường, làn đường có ít phương tiện tham gia giao thông.",
-      "3": "Điều khiển xe và đội mũ bảo hiểm ở nơi có biển báo bắt buộc đội mũ bảo hiểm.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "3": "Điều khiển xe và đội mũ bảo hiểm ở nơi có biển báo bắt buộc đội mũ bảo hiểm."
     }
   },
   {
@@ -2872,8 +2709,7 @@ var d = {
     "info": {
       "1": "Điều khiển xe đi bên phải theo chiều đi của mình; đi đúng phần đường, làn đường quy định; dừng, đỗ xe đúng nơi quy định; đã uống rượu, bia thì không lái xe.",
       "2": "Điều khiển xe đi trên phần đường, làn đường có ít phương tiện giao thông; dừng xe, đỗ xe ở nơi thuận tiện hoặc theo yêu cầu của hành khách, của người thân.",
-      "3": "Dừng và đỗ xe ở nơi thuận tiện cho việc chuyên chở hành khách và giao nhận hàng hóa; sử dụng ít rượu, bia thì có thể lái xe.",
-      "4": "Tránh nhường đường để đi nhanh hơn."
+      "3": "Dừng và đỗ xe ở nơi thuận tiện cho việc chuyên chở hành khách và giao nhận hàng hóa; sử dụng ít rượu, bia thì có thể lái xe."
     }
   },
   {
@@ -2916,9 +2752,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Giúp đỡ, cứu chữa kịp thời người bị nạn; báo tin ngay cho cơ quan Công an, cơ sở khám bệnh, chữa bệnh hoặc Ủy ban nhân dân nơi gần nhất; tham gia bảo vệ hiện trường; tham gia bảo vệ tài sản của người bị nạn; cung cấp thông tin liên quan về vụ tai nạn theo yêu cầu của cơ quan có thẩm quyền.",
-      "2": "Chụp lại hình ảnh vụ tai nạn (nếu có thiết bị ghi hình) và nhanh chóng rời khỏi hiện trường vụ tai nạn.",
-      "3": "Cung cấp thông tin xác định danh tính về bản thân, người liên quan đến vụ tai nạn giao thông đường bộ và thông tin liên quan của vụ tai nạn giao thông đường bộ cho cơ quan có thẩm quyền.",
-      "4": "Cả ba ý trên."
+      "2": "Chụp lại hình ảnh vụ tai nạn (nếu có thiết bị ghi hình) và nhanh chóng rời khỏi hiện trường vụ tai nạn."
     }
   },
   {
@@ -2931,9 +2765,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Đặt nạn nhân nằm ngửa, khai thông đường thở của nạn nhân; thực hiện các biện pháp hô hấp nhân tạo.",
-      "2": "Thực hiện các biện pháp hô hấp nhân tạo.",
-      "3": "Cung cấp thông tin xác định danh tính về bản thân, người liên quan đến vụ tai nạn giao thông đường bộ và thông tin liên quan của vụ tai nạn giao thông đường bộ cho cơ quan có thẩm quyền.",
-      "4": "Cả ba ý trên."
+      "2": "Thực hiện các biện pháp hô hấp nhân tạo."
     }
   },
   {
@@ -2947,8 +2779,7 @@ var d = {
     "info": {
       "1": "Không bị nghiêm cấm.",
       "2": "Nghiêm cấm tuỳ từng trường hợp cụ thể.",
-      "3": "Bị nghiêm cấm.",
-      "4": "Cả ba ý trên."
+      "3": "Bị nghiêm cấm."
     }
   },
   {
@@ -2992,8 +2823,7 @@ var d = {
     "info": {
       "1": "Cho xe lấn sang làn ngược chiều để nhanh chóng thoát khỏi nơi ùn tắc.",
       "2": "Điều khiển xe trên vỉa hè để nhanh chóng thoát khỏi nơi ùn tắc.",
-      "3": "Kiên nhẫn tuân thủ hướng dẫn của người điều khiển giao thông hoặc tín hiệu đèn giao thông, di chuyển trên đúng phần đường bên phải theo chiều đi, nhường đường cho các phương tiện đi ngược chiều.",
-      "4": "Chỉ giúp đỡ nếu có người thân trong vụ tai nạn."
+      "3": "Kiên nhẫn tuân thủ hướng dẫn của người điều khiển giao thông hoặc tín hiệu đèn giao thông, di chuyển trên đúng phần đường bên phải theo chiều đi, nhường đường cho các phương tiện đi ngược chiều."
     }
   },
   {
@@ -3006,9 +2836,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Bấm còi liên tục thúc giục các phương tiện phía trước nhường đường; đi trên vỉa hè, tận dụng mọi khoảng trống để nhanh chóng thoát khỏi nơi ùn tắc; lấn sang trái đường cố gắng vượt lên xe khác.",
-      "2": "Tuân thủ hướng dẫn của người điều khiển giao thông hoặc tín hiệu giao thông, đi đúng phần đường, làn đường quy định.",
-      "3": "Kiên nhẫn tuân thủ hướng dẫn của người điều khiển giao thông hoặc tín hiệu đèn giao thông, di chuyển trên đúng phần đường bên phải theo chiều đi, nhường đường cho các phương tiện đi ngược chiều.",
-      "4": "Chỉ giúp đỡ nếu có người thân trong vụ tai nạn."
+      "2": "Tuân thủ hướng dẫn của người điều khiển giao thông hoặc tín hiệu giao thông, đi đúng phần đường, làn đường quy định."
     }
   },
   {
@@ -3037,8 +2865,7 @@ var d = {
     "info": {
       "1": "Tắt khoá điện, hô hoán để mọi người đến trợ giúp chữa cháy, gọi Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ (điện thoại 114).",
       "2": "Nếu nhiên liệu chưa trào ra ngoài (ngọn lửa chưa cháy dữ dội) thì có thể sử dụng nước, hoặc bất kỳ chất, phương tiện chữa cháy có được để dập lửa; nếu nhiên liệu đã trào ra ngoài (ngọn lửa cháy dữ dội) thì phải sử dụng các bình chữa cháy, cát, chăn chiên, bao tải, vải nhúng nước để dập lửa.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -3082,8 +2909,7 @@ var d = {
     "info": {
       "1": "Giữ tay ga ở mức độ phù hợp, sử dụng phanh trước và phanh sau để giảm tốc độ.",
       "2": "Nhả hết tay ga, tắt động cơ, sử dụng phanh trước và phanh sau để giảm tốc độ.",
-      "3": "Sử dụng phanh trước để giảm tốc độ kết hợp với tắt chìa khóa điện của xe.",
-      "4": "Cả ba ý trên."
+      "3": "Sử dụng phanh trước để giảm tốc độ kết hợp với tắt chìa khóa điện của xe."
     }
   },
   {
@@ -3096,9 +2922,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Đạp bàn đạp phanh chân hết hành trình, vào số và nhả phanh đỗ, kiểm tra lại xem có bị nhầm số không rồi mới cho xe lăn bánh.",
-      "2": "Đạp bàn đạp để tăng ga với mức độ phù hợp, vào số và kiểm tra lại xem có bị nhầm số không rồi mới cho xe lăn bánh.",
-      "3": "Sử dụng phanh trước để giảm tốc độ kết hợp với tắt chìa khóa điện của xe.",
-      "4": "Cả ba ý trên."
+      "2": "Đạp bàn đạp để tăng ga với mức độ phù hợp, vào số và kiểm tra lại xem có bị nhầm số không rồi mới cho xe lăn bánh."
     }
   },
   {
@@ -3112,8 +2936,7 @@ var d = {
     "info": {
       "1": "Dùng lực tay phải kéo cần phanh tay về phía sau hết hành trình; nếu khóa hãm bị kẹt cứng phải đẩy mạnh phanh tay về phía trước, sau đó bóp khóa hãm.",
       "2": "Dùng lực tay phải bóp khóa hãm đẩy cần phanh tay về phía trước hết hành trình; nếu khóa hãm bị kẹt cứng phải kéo cần phanh tay về phía sau đồng thời bóp khóa hãm.",
-      "3": "Dùng lực tay phải đẩy cần phanh tay về phía trước hết hành trình; nếu khóa hãm bị kẹt cứng phải đẩy mạnh phanh tay về phía trước, sau đó bóp khóa hãm.",
-      "4": "Cả ba ý trên."
+      "3": "Dùng lực tay phải đẩy cần phanh tay về phía trước hết hành trình; nếu khóa hãm bị kẹt cứng phải đẩy mạnh phanh tay về phía trước, sau đó bóp khóa hãm."
     }
   },
   {
@@ -3126,9 +2949,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Kiểm tra an toàn xung quanh xe ô tô; nhả từ từ đến 1/2 hành trình bàn đạp ly hợp (côn) và giữ trong khoảng 3 giây; vào số 1; nhả hết phanh tay, báo hiệu bằng còi, đèn trước khi xuất phát; tăng ga đủ để xuất phát, sau đó vừa tăng ga vừa nhả hết côn để cho xe ô tô chuyển động.",
-      "2": "Kiểm tra an toàn xung quanh xe ô tô; đạp ly hợp (côn) hết hành trình; vào số 1; nhả hết phanh tay, báo hiệu bằng còi, đèn trước khi xuất phát; tăng ga đủ để xuất phát; nhả từ từ đến 1/2 hành trình bàn đạp côn và giữ trong khoảng 3 giây, sau đó vừa tăng ga vừa nhả hết côn để cho xe ô tô chuyển động.",
-      "3": "Dùng lực tay phải đẩy cần phanh tay về phía trước hết hành trình; nếu khóa hãm bị kẹt cứng phải đẩy mạnh phanh tay về phía trước, sau đó bóp khóa hãm.",
-      "4": "Cả ba ý trên."
+      "2": "Kiểm tra an toàn xung quanh xe ô tô; đạp ly hợp (côn) hết hành trình; vào số 1; nhả hết phanh tay, báo hiệu bằng còi, đèn trước khi xuất phát; tăng ga đủ để xuất phát; nhả từ từ đến 1/2 hành trình bàn đạp côn và giữ trong khoảng 3 giây, sau đó vừa tăng ga vừa nhả hết côn để cho xe ô tô chuyển động."
     }
   },
   {
@@ -3141,9 +2962,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Quan sát biển báo hiệu để biết nơi được phép quay đầu; quan sát kỹ địa hình nơi chọn để quay đầu; lựa chọn quỹ đạo quay đầu xe cho thích hợp; quay đầu xe với tốc độ thấp; thường xuyên báo tín hiệu để người, các phương tiện xung quanh được biết; nếu quay đầu xe ở nơi nguy hiểm thì đưa đầu xe về phía nguy hiểm, đưa đuôi xe về phía an toàn.",
-      "2": "Quan sát biển báo hiệu để biết nơi được phép quay đầu; quan sát kỹ địa hình nơi chọn để quay đầu; lựa chọn quỹ đạo quay đầu xe; quay đầu xe với tốc độ tối đa; thường xuyên báo tín hiệu để người, các phương tiện xung quanh được biết; nếu quay đầu xe ở nơi nguy hiểm thì đưa đuôi xe về phía nguy hiểm và đầu xe về phía an toàn.",
-      "3": "Dùng lực tay phải đẩy cần phanh tay về phía trước hết hành trình; nếu khóa hãm bị kẹt cứng phải đẩy mạnh phanh tay về phía trước, sau đó bóp khóa hãm.",
-      "4": "Cả ba ý trên."
+      "2": "Quan sát biển báo hiệu để biết nơi được phép quay đầu; quan sát kỹ địa hình nơi chọn để quay đầu; lựa chọn quỹ đạo quay đầu xe; quay đầu xe với tốc độ tối đa; thường xuyên báo tín hiệu để người, các phương tiện xung quanh được biết; nếu quay đầu xe ở nơi nguy hiểm thì đưa đuôi xe về phía nguy hiểm và đầu xe về phía an toàn."
     }
   },
   {
@@ -3157,8 +2976,7 @@ var d = {
     "info": {
       "1": "Điều chỉnh ghế sao cho chân có thể đạp phanh và ga dễ dàng, ngồi thẳng lưng, hai tay nắm vô lăng, tay trái nắm ở vị trí 9 đến 10 giờ và tay phải nắm ở vị trí từ 2 đến 4 giờ.",
       "2": "Ngồi sát vô lăng để dễ quan sát hoặc ngồi tự do, không cần điều chỉnh ghế.",
-      "3": "Ngồi ngả người về phía sau nhiều để thư giãn, chân trái để ở vị trí chân ga, hai tay nắm vô lăng ở vị trí bất kỳ.",
-      "4": "Cả ba ý trên."
+      "3": "Ngồi ngả người về phía sau nhiều để thư giãn, chân trái để ở vị trí chân ga, hai tay nắm vô lăng ở vị trí bất kỳ."
     }
   },
   {
@@ -3171,9 +2989,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Tăng lên số cao từ chân dốc, điều chỉnh ga cho xe nhanh lên dốc; đến gần đỉnh dốc phải tăng ga để xe nhanh chóng qua dốc; về số thấp, đi sát về phía bên phải đường, có tín hiệu (còi, đèn) để báo cho người lái xe đi ngược chiều biết.",
-      "2": "Về số thấp từ chân dốc, điều chỉnh ga cho xe từ từ lên dốc; đến gần đỉnh dốc phải đi chậm, đi sát về phía bên phải đường, có tín hiệu (còi, đèn) để báo cho người lái xe đi ngược chiều biết.",
-      "3": "Ngồi ngả người về phía sau nhiều để thư giãn, chân trái để ở vị trí chân ga, hai tay nắm vô lăng ở vị trí bất kỳ.",
-      "4": "Cả ba ý trên."
+      "2": "Về số thấp từ chân dốc, điều chỉnh ga cho xe từ từ lên dốc; đến gần đỉnh dốc phải đi chậm, đi sát về phía bên phải đường, có tín hiệu (còi, đèn) để báo cho người lái xe đi ngược chiều biết."
     }
   },
   {
@@ -3187,8 +3003,7 @@ var d = {
     "info": {
       "1": "Tăng lên số cao, nhả bàn đạp ga ở mức độ phù hợp, kết hợp với phanh chân để khống chế tốc độ.",
       "2": "Về số thấp, nhả bàn đạp ga ở mức độ phù hợp, kết hợp với phanh chân để khống chế tốc độ.",
-      "3": "Về số không (0), nhả bàn đạp ga ở mức độ phù hợp, kết hợp với phanh chân để khống chế tốc độ.",
-      "4": "Cả ba ý trên."
+      "3": "Về số không (0), nhả bàn đạp ga ở mức độ phù hợp, kết hợp với phanh chân để khống chế tốc độ."
     }
   },
   {
@@ -3202,8 +3017,7 @@ var d = {
     "info": {
       "1": "Có tín hiệu rẽ phải, điều khiển xe sát vào lề đường bên phải; đạp phanh sớm và mạnh hơn lúc dừng xe trên đường bằng để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được; về số 1, đạp 1/2 ly hợp (côn) cho xe đến chỗ dừng; khi xe đã dừng, về số không (N), đạp phanh chân, sử dụng phanh đỗ.",
       "2": "Có tín hiệu rẽ phải, điều khiển xe sát vào lề đường bên trái; đạp hết hành trình ly hợp (côn) và nhả bàn đạp ga để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được tại chỗ dừng; khi xe đã dừng, đạp và giữ phanh chân.",
-      "3": "Có tín hiệu rẽ trái, điều khiển xe sát vào lề đường bên phải; đạp phanh sớm và mạnh hơn lúc dừng xe trên đường bằng để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được; về số không (N) để xe đi đến chỗ dừng, khi xe đã dừng, sử dụng phanh đỗ.",
-      "4": "Cả ba ý trên."
+      "3": "Có tín hiệu rẽ trái, điều khiển xe sát vào lề đường bên phải; đạp phanh sớm và mạnh hơn lúc dừng xe trên đường bằng để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được; về số không (N) để xe đi đến chỗ dừng, khi xe đã dừng, sử dụng phanh đỗ."
     }
   },
   {
@@ -3216,9 +3030,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Quan sát cẩn thận các chướng ngại vật và báo hiệu bằng coi, đèn; giảm tốc độ tới mức cần thiết, về số thấp và thực hiện quay vòng với tốc độ phù hợp với bán kính cong của đường vòng.",
-      "2": "Quan sát cẩn thận các chướng ngại vật và báo hiệu bằng còi, đèn; tăng tốc để nhanh chóng qua đường vòng và giảm tốc độ sau khi qua đường vòng.",
-      "3": "Có tín hiệu rẽ trái, điều khiển xe sát vào lề đường bên phải; đạp phanh sớm và mạnh hơn lúc dừng xe trên đường bằng để xe đi với tốc độ chậm đến mức dễ dàng dừng lại được; về số không (N) để xe đi đến chỗ dừng, khi xe đã dừng, sử dụng phanh đỗ.",
-      "4": "Cả ba ý trên."
+      "2": "Quan sát cẩn thận các chướng ngại vật và báo hiệu bằng còi, đèn; tăng tốc để nhanh chóng qua đường vòng và giảm tốc độ sau khi qua đường vòng."
     }
   },
   {
@@ -3232,8 +3044,7 @@ var d = {
     "info": {
       "1": "Có tín hiệu rẽ phải; quan sát an toàn phía sau; điều khiển xe sang làn đường bên trái; giảm tốc độ và quan sát an toàn phía bên phải để điều khiển xe qua chỗ đường giao nhau.",
       "2": "Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ phải; giảm tốc độ, quan sát an toàn phía trước, sau, bên phải và điều khiển xe từ từ rẽ phải.",
-      "3": "Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ phải; quan sát an toàn phía sau; điều khiển xe bám sát vào phía phải đường; tăng tốc độ và quan sát an toàn phía bên trái để điều khiển xe qua chỗ đường giao nhau.",
-      "4": "Cả ba ý trên."
+      "3": "Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ phải; quan sát an toàn phía sau; điều khiển xe bám sát vào phía phải đường; tăng tốc độ và quan sát an toàn phía bên trái để điều khiển xe qua chỗ đường giao nhau."
     }
   },
   {
@@ -3246,9 +3057,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ trái; giảm tốc độ, quan sát an toàn xung quanh đặc biệt là bên trái; đổi sang làn đường bên trái và điều khiển xe từ từ rẽ trái.",
-      "2": "Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ trái, tăng tốc độ để xe nhanh chóng qua chỗ đường giao nhau; có tín hiệu xin đổi làn đường; quan sát an toàn xung quanh đặc biệt là bên trái; đổi làn đường sang phải để mở rộng vòng cua.",
-      "3": "Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ phải; quan sát an toàn phía sau; điều khiển xe bám sát vào phía phải đường; tăng tốc độ và quan sát an toàn phía bên trái để điều khiển xe qua chỗ đường giao nhau.",
-      "4": "Cả ba ý trên."
+      "2": "Cách chỗ rẽ một khoảng cách an toàn có tín hiệu rẽ trái, tăng tốc độ để xe nhanh chóng qua chỗ đường giao nhau; có tín hiệu xin đổi làn đường; quan sát an toàn xung quanh đặc biệt là bên trái; đổi làn đường sang phải để mở rộng vòng cua."
     }
   },
   {
@@ -3262,8 +3071,7 @@ var d = {
     "info": {
       "1": "Vào số một (1) và từ từ cho hai bánh xe trước xuống rãnh, tăng ga cho hai bánh xe trước vượt lên khỏi rãnh, tăng số, tăng tốc độ để bánh xe sau vượt qua rãnh.",
       "2": "Tăng ga, tăng số để hai bánh xe trước và bánh xe sau vượt qua khỏi rãnh và chạy bình thường.",
-      "3": "Vào số một (1) và từ từ cho hai bánh xe trước xuống rãnh, tăng ga cho hai bánh xe trước vượt lên khỏi rãnh, tiếp tục để bánh xe sau từ từ xuống rãnh rồi tăng dần ga cho xe ô tô lên khỏi rãnh.",
-      "4": "Cả ba ý trên."
+      "3": "Vào số một (1) và từ từ cho hai bánh xe trước xuống rãnh, tăng ga cho hai bánh xe trước vượt lên khỏi rãnh, tiếp tục để bánh xe sau từ từ xuống rãnh rồi tăng dần ga cho xe ô tô lên khỏi rãnh."
     }
   },
   {
@@ -3277,8 +3085,7 @@ var d = {
     "info": {
       "1": "Khi có chuông báo hoặc thanh chắn đã hạ xuống, người lái xe phải dừng xe tạm thời đúng khoảng cách an toàn, kéo phanh tay nếu đường dốc hoặc phải chờ lâu.",
       "2": "Khi không có chuông báo hoặc thanh chắn không hạ xuống, người lái xe cần phải quan sát nếu thấy đủ điều kiện an toàn thì về số thấp, tăng ga nhẹ và không thay đổi số trong quá trình vượt qua đường sắt để tránh động cơ chết máy cho xe cho vượt qua.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -3306,9 +3113,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Không được nhìn xuống buồng lái, cần phải tăng thứ tự từ thấp đến cao, phối hợp các động tác phải nhịp nhàng, chính xác.",
-      "2": "Nhìn xuống buồng lái để biết chính xác vị trí các tay số, cần phải tăng thứ tự từ thấp đến cao, phối hợp các động tác phải nhịp nhàng, vù ga phải phù hợp với tốc độ.",
-      "3": "Khi đổ hàng phải chọn vị trí có nền đường cứng và phẳng, dừng hẳn xe, kéo hết phanh đỗ; sau đó mới điều khiển cơ cấu nâng \"ben\" để đổ hàng, đổ xong hàng mới hạ thùng xuống.",
-      "4": "Ý 1 và ý 3."
+      "2": "Nhìn xuống buồng lái để biết chính xác vị trí các tay số, cần phải tăng thứ tự từ thấp đến cao, phối hợp các động tác phải nhịp nhàng, vù ga phải phù hợp với tốc độ."
     }
   },
   {
@@ -3321,9 +3126,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Nhìn xuống buồng lái để biết chính xác vị trí các tay số, cần phải giảm thứ tự từ cao xuống thấp, phối hợp các động tác phải nhịp nhàng, chính xác.",
-      "2": "Không được nhìn xuống buồng lái, cần phải giảm thứ tự từ cao xuống thấp, phối hợp các động tác phải nhịp nhàng, chính xác, vù ga phải phù hợp với tốc độ.",
-      "3": "Khi đổ hàng phải chọn vị trí có nền đường cứng và phẳng, dừng hẳn xe, kéo hết phanh đỗ; sau đó mới điều khiển cơ cấu nâng \"ben\" để đổ hàng, đổ xong hàng mới hạ thùng xuống.",
-      "4": "Ý 1 và ý 3."
+      "2": "Không được nhìn xuống buồng lái, cần phải giảm thứ tự từ cao xuống thấp, phối hợp các động tác phải nhịp nhàng, chính xác, vù ga phải phù hợp với tốc độ."
     }
   },
   {
@@ -3337,8 +3140,7 @@ var d = {
     "info": {
       "1": "Nhả bàn đạp ga, đạp ly hợp (côn) hết hành trình, đạp mạnh phanh chân để giảm tốc độ.",
       "2": "Về số thấp phù hợp, nhả bàn đạp ga, kết hợp đạp phanh chân với mức độ phù hợp để giảm tốc độ.",
-      "3": "Nhả bàn đạp ga, tăng lên số cao, đạp phanh chân với mức độ phù hợp để giảm tốc độ.",
-      "4": "Ý 1 và ý 3."
+      "3": "Nhả bàn đạp ga, tăng lên số cao, đạp phanh chân với mức độ phù hợp để giảm tốc độ."
     }
   },
   {
@@ -3352,8 +3154,7 @@ var d = {
     "info": {
       "1": "Tăng lên số cao, tăng ga và giảm ga liên tục để thay đổi tốc độ, giữ vững tay lái để ô tô vượt qua đoạn đường ngập nước.",
       "2": "Đạp ly hợp (côn) hết hành trình, tăng ga và giảm ga liên tục để thay đổi tốc độ, giữ vững tay lái để ô tô vượt qua đoạn đường ngập nước.",
-      "3": "Quan sát, ước lượng độ ngập nước mà xe ô tô có thể vượt qua an toàn, về số thấp, giữ đều ga và giữ vững tay lái để ô tô vượt qua đoạn đường ngập nước.",
-      "4": "Ý 1 và ý 3."
+      "3": "Quan sát, ước lượng độ ngập nước mà xe ô tô có thể vượt qua an toàn, về số thấp, giữ đều ga và giữ vững tay lái để ô tô vượt qua đoạn đường ngập nước."
     }
   },
   {
@@ -3367,8 +3168,7 @@ var d = {
     "info": {
       "1": "Chuyển từ đèn chiếu xa sang đèn chiếu gần; không nhìn thẳng vào đèn của xe chạy ngược chiều mà nhìn chếch sang phía phải theo chiều chuyển động của xe mình.",
       "2": "Chuyển từ đèn chiếu gần sang đèn chiếu xa; không nhìn thẳng vào đèn của xe chạy ngược chiều mà nhìn chếch sang phía phải theo chiều chuyển động của xe mình.",
-      "3": "Chuyển từ đèn chiếu xa sang đèn chiếu gần; nhìn thẳng vào đèn của xe chạy ngược chiều để tránh xe bảo đảm an toàn.",
-      "4": "Ý 1 và ý 3."
+      "3": "Chuyển từ đèn chiếu xa sang đèn chiếu gần; nhìn thẳng vào đèn của xe chạy ngược chiều để tránh xe bảo đảm an toàn."
     }
   },
   {
@@ -3381,9 +3181,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Giữ vững tay lái cho xe đi đúng vệt bánh xe đi trước, sử dụng số thấp đi chậm, giữ đều ga, đánh lái ngoặt và phanh gấp khi cần thiết.",
-      "2": "Giữ vững tay lái cho xe đi đúng vệt bánh xe đi trước, sử dụng số thấp đi chậm, gài cầu (nếu có), giữ đều ga, không lấy nhiều lái, không đánh lái ngoặt và phanh gấp.",
-      "3": "Chuyển từ đèn chiếu xa sang đèn chiếu gần; nhìn thẳng vào đèn của xe chạy ngược chiều để tránh xe bảo đảm an toàn.",
-      "4": "Ý 1 và ý 3."
+      "2": "Giữ vững tay lái cho xe đi đúng vệt bánh xe đi trước, sử dụng số thấp đi chậm, gài cầu (nếu có), giữ đều ga, không lấy nhiều lái, không đánh lái ngoặt và phanh gấp."
     }
   },
   {
@@ -3397,8 +3195,7 @@ var d = {
     "info": {
       "1": "Đang sử dụng phanh đỗ.",
       "2": "Nhiệt độ nước làm mát quá mức cho phép.",
-      "3": "Cửa xe đang mở.",
-      "4": "Ý 1 và ý 3."
+      "3": "Cửa xe đang mở."
     }
   },
   {
@@ -3472,8 +3269,7 @@ var d = {
     "info": {
       "1": "Xăng và dầu diesel.",
       "2": "Xăng sinh học và khí sinh học.",
-      "3": "Ý 1 và ý 2.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Ý 1 và ý 2."
     }
   },
   {
@@ -3487,8 +3283,7 @@ var d = {
     "info": {
       "1": "Bảo dưỡng xe theo định kỳ và có kế hoạch lộ trình trước khi xe chạy.",
       "2": "Kiểm tra áp suất lốp theo quy định và chạy xe với tốc độ phù hợp với tình trạng mặt đường và mật độ giao thông trên đường.",
-      "3": "Cả hai ý trên.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -3502,8 +3297,7 @@ var d = {
     "info": {
       "1": "Quan sát tình hình giao thông phía trước, phía sau và phía bên mở cửa xe, mở hé cánh cửa, nếu đảm bảo an toàn thì mở cửa ở mức cần thiết để xuống xe ô tô.",
       "2": "Mở cánh cửa và quan sát tình hình giao thông phía trước, nếu đảm bảo an toàn thì mở cửa ở mức cần thiết để xuống xe ô tô.",
-      "3": "Mở cánh cửa hết hành trình và nhanh chóng ra khỏi xe ô tô.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Mở cánh cửa hết hành trình và nhanh chóng ra khỏi xe ô tô."
     }
   },
   {
@@ -3517,8 +3311,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ, dừng lại trước vạch dừng, quan sát cả hai phía, nếu không có tàu đi tới, tăng ga nhẹ vượt qua đường sắt.",
       "2": "Nếu thấy có tàu đi tới thì dừng lại trước vạch dừng, chỉ khi tàu đi qua mới được đi.",
-      "3": "Cả hai ý trên.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -3532,8 +3325,7 @@ var d = {
     "info": {
       "1": "Không đúng.",
       "2": "Đúng.",
-      "3": "Không cần thiết, vì nếu nhìn thấy tàu còn cách xa, người lái xe có thể tăng số cao, tăng ga để cho xe nhanh chóng vượt qua đường sắt.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Không cần thiết, vì nếu nhìn thấy tàu còn cách xa, người lái xe có thể tăng số cao, tăng ga để cho xe nhanh chóng vượt qua đường sắt."
     }
   },
   {
@@ -3547,8 +3339,7 @@ var d = {
     "info": {
       "1": "Về số thấp, kết hợp phanh chân để giảm tốc độ.",
       "2": "Giữ nguyên tay số D, kết hợp phanh đỗ để giảm tốc độ.",
-      "3": "Về số N (số 0), kết hợp phanh chân để giảm tốc độ.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Về số N (số 0), kết hợp phanh chân để giảm tốc độ."
     }
   },
   {
@@ -3562,8 +3353,7 @@ var d = {
     "info": {
       "1": "Vị trí N hoặc vị trí P hoặc số 0.",
       "2": "Vị trí D hoặc số 1.",
-      "3": "Vị trí R.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Vị trí R."
     }
   },
   {
@@ -3577,8 +3367,7 @@ var d = {
     "info": {
       "1": "Không sử dụng chân trái; chân phải điều khiển bàn đạp phanh và bàn đạp ga.",
       "2": "Chân trái điều khiển bàn đạp phanh, chân phải điều khiển bàn đạp ga.",
-      "3": "Không sử dụng chân phải; chân trái điều khiển bàn đạp phanh và bàn đạp ga.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Không sử dụng chân phải; chân trái điều khiển bàn đạp phanh và bàn đạp ga."
     }
   },
   {
@@ -3592,8 +3381,7 @@ var d = {
     "info": {
       "1": "Tăng tốc độ, chạy gần xe trước, nhìn đèn hậu để định hướng.",
       "2": "Giảm tốc độ, chạy cách xa xe trước với khoảng cách an toàn, bật đèn sương mù và đèn chiếu gần.",
-      "3": "Tăng tốc độ, bật đèn pha vượt qua xe chạy trước.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Tăng tốc độ, bật đèn pha vượt qua xe chạy trước."
     }
   },
   {
@@ -3607,8 +3395,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ, giữ vững tay lái, nhìn chếch sang lề đường bên phải.",
       "2": "Bật đèn pha chiếu xa và giữ nguyên tốc độ.",
-      "3": "Tăng tốc độ, bật đèn pha đối diện xe phía trước.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Tăng tốc độ, bật đèn pha đối diện xe phía trước."
     }
   },
   {
@@ -3622,8 +3409,7 @@ var d = {
     "info": {
       "1": "Sử dụng phanh trước.",
       "2": "Sử dụng phanh sau.",
-      "3": "Giảm hết ga, sử dụng đồng thời cả phanh sau và phanh trước.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Giảm hết ga, sử dụng đồng thời cả phanh sau và phanh trước."
     }
   },
   {
@@ -3637,8 +3423,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ, về số thấp và giữ đều ga.",
       "2": "Tăng tốc độ cho xe lướt qua nhanh.",
-      "3": "Tăng tốc độ, đánh lái liên tục để tránh \"ổ gà\".",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Tăng tốc độ, đánh lái liên tục để tránh \"ổ gà\"."
     }
   },
   {
@@ -3652,8 +3437,7 @@ var d = {
     "info": {
       "1": "Bật đèn chiếu gần và đèn vàng (nếu có), điều khiển gạt nước, điều khiển ô tô đi với tốc độ chậm để có thể quan sát được; tìm chỗ an toàn dừng xe, bật đèn dừng khẩn cấp báo hiệu cho các xe khác biết.",
       "2": "Bật đèn chiếu xa và đèn vàng, điều khiển gạt nước, tăng tốc độ điều khiển ô tô qua khỏi khu vực mưa hoặc sương mù.",
-      "3": "Tăng tốc độ, bật đèn pha vượt qua xe chạy phía trước.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Tăng tốc độ, bật đèn pha vượt qua xe chạy phía trước."
     }
   },
   {
@@ -3667,8 +3451,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ, tăng cường quan sát, không nên phanh gấp, không nên tăng ga hay đánh vô lăng đột ngột, bật đèn chiếu gần, mở chế độ gạt nước ở chế độ phù hợp để đảm bảo quan sát.",
       "2": "Phanh gấp khi xe đi vào vũng nước và tăng ga ngay sau khi ra khỏi vũng nước.",
-      "3": "Bật đèn chiếu xa, tăng tốc độ điều khiển ô tô qua khỏi khu vực mưa.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Bật đèn chiếu xa, tăng tốc độ điều khiển ô tô qua khỏi khu vực mưa."
     }
   },
   {
@@ -3682,8 +3465,7 @@ var d = {
     "info": {
       "1": "Quan sát bên trái, bên phải, phía sau xe, có tín hiệu cần thiết và lùi xe với tốc độ phù hợp.",
       "2": "Quan sát phía trước xe và lùi xe với tốc độ nhanh.",
-      "3": "Quan sát bên trái và phía trước của xe và lùi xe với tốc độ nhanh.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Quan sát bên trái và phía trước của xe và lùi xe với tốc độ nhanh."
     }
   },
   {
@@ -3697,8 +3479,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ đến mức an toàn, quan sát, nhường đường cho người đi bộ, giữ khoảng cách an toàn với các xe phía trước.",
       "2": "Đi đúng làn đường quy định, chỉ được chuyển làn đường ở nơi cho phép, nhưng phải quan sát.",
-      "3": "Cả hai ý trên.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -3712,8 +3493,7 @@ var d = {
     "info": {
       "1": "Quan sát, phát tín hiệu, nhường đường cho các xe đang chạy trên đường cao tốc, khi đủ điều kiện an toàn thì tăng tốc độ cho xe nhập vào làn đường cao tốc, nếu có làn đường tăng tốc thì phải cho xe chạy trên làn đường đó trước khi cho xe nhập vào làn của đường cao tốc.",
       "2": "Phát tín hiệu, quan sát các xe đang chạy phía trước, nếu bảo đảm các điều kiện an toàn thì tăng tốc độ cho xe nhập ngay vào làn đường cao tốc.",
-      "3": "Phát tín hiệu và lái xe nhập vào làn đường tăng tốc, quan sát các xe phía sau đang chạy trên đường cao tốc, khi đủ điều kiện an toàn thì giảm tốc độ, từ từ cho xe nhập vào làn đường cao tốc.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Phát tín hiệu và lái xe nhập vào làn đường tăng tốc, quan sát các xe phía sau đang chạy trên đường cao tốc, khi đủ điều kiện an toàn thì giảm tốc độ, từ từ cho xe nhập vào làn đường cao tốc."
     }
   },
   {
@@ -3726,9 +3506,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Quan sát phía trước để tìm biển báo chỉ dẫn \"lối ra đường cao tốc\", kiểm tra tình trạng giao thông phía sau và bên phải, nếu bảo đảm điều kiện an toàn thì phát tín hiệu và điều khiển xe chuyển dần sang làn bên phải, nếu có làn đường giảm tốc thì phải cho xe di chuyển trên làn đường đó trước khi ra khỏi đường cao tốc.",
-      "2": "Quan sát phía trước để tìm biển báo chỉ dẫn \"lối ra đường cao tốc\", trường hợp vượt qua \"lối ra đường cao tốc\" thì phát tín hiệu, di chuyển sang làn đường giảm tốc và lùi xe quay trở lại.",
-      "3": "Phát tín hiệu và lái xe nhập vào làn đường tăng tốc, quan sát các xe phía sau đang chạy trên đường cao tốc, khi đủ điều kiện an toàn thì giảm tốc độ, từ từ cho xe nhập vào làn đường cao tốc.",
-      "4": "Sắp hết nhiên liệu."
+      "2": "Quan sát phía trước để tìm biển báo chỉ dẫn \"lối ra đường cao tốc\", trường hợp vượt qua \"lối ra đường cao tốc\" thì phát tín hiệu, di chuyển sang làn đường giảm tốc và lùi xe quay trở lại."
     }
   },
   {
@@ -3742,8 +3520,7 @@ var d = {
     "info": {
       "1": "Xe gặp sự cố, tai nạn hoặc trường hợp khẩn cấp không thể di chuyển bình thường.",
       "2": "Để nghỉ ngơi, đi vệ sinh, chụp ảnh, làm việc riêng...",
-      "3": "Cả hai ý trên.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -3771,9 +3548,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Nhả bàn đạp ga, về số thấp, đạp phanh chân với mức độ phù hợp để giảm tốc độ.",
-      "2": "Nhả bàn đạp ga, về số N đạp phanh chân và kéo phanh tay để giảm tốc độ.",
-      "3": "Khi vượt qua, phải quan sát gương chiếu hậu bên phải nếu có khoảng trống an toàn mới được cho xe chạy vào làn của mình, tắt xi nhan và tiếp tục hành trình.",
-      "4": "Cả ba ý trên."
+      "2": "Nhả bàn đạp ga, về số N đạp phanh chân và kéo phanh tay để giảm tốc độ."
     }
   },
   {
@@ -3787,8 +3562,7 @@ var d = {
     "info": {
       "1": "Quan sát, giảm tốc độ, phát tín hiệu, nhường đường cho xe trên đường chính từ bất kỳ hướng nào tới.",
       "2": "Nháy đèn, bấm còi để xe đi trên đường chính biết và tăng tốc độ cho xe đi ra đường chính.",
-      "3": "Quan sát xe đang đi trên đường chính, nếu là xe có kích thước lớn hơn thì nhường đường, xe có kích thước nhỏ hơn thì tăng tốc độ cho xe đi ra đường chính.",
-      "4": "Cả ba ý trên."
+      "3": "Quan sát xe đang đi trên đường chính, nếu là xe có kích thước lớn hơn thì nhường đường, xe có kích thước nhỏ hơn thì tăng tốc độ cho xe đi ra đường chính."
     }
   },
   {
@@ -3802,8 +3576,7 @@ var d = {
     "info": {
       "1": "Giảm tốc độ để bảo đảm an toàn với xe phía trước và sử dụng điện thoại để liên lạc.",
       "2": "Giảm tốc độ để dừng xe ở nơi cho phép sau đó sử dụng điện thoại để liên lạc.",
-      "3": "Tăng tốc độ để cách xa xe phía sau và sử dụng điện thoại để liên lạc.",
-      "4": "Cả ba ý trên."
+      "3": "Tăng tốc độ để cách xa xe phía sau và sử dụng điện thoại để liên lạc."
     }
   },
   {
@@ -3817,8 +3590,7 @@ var d = {
     "info": {
       "1": "Sử dụng còi.",
       "2": "Phanh đồng thời cả phanh trước và phanh sau.",
-      "3": "Chỉ sử dụng phanh trước.",
-      "4": "Cả ba ý trên."
+      "3": "Chỉ sử dụng phanh trước."
     }
   },
   {
@@ -3831,9 +3603,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Quan sát phía trước, phía sau và bên phía mở cửa để phát hiện các phương tiện đang di chuyển tới gần, khi đủ điều kiện an toàn, mở hé cửa, sau đó mở ở mức cần thiết để xuống xe.",
-      "2": "Quan sát tình hình giao thông phía trước, không cần quan sát phía sau và bên mở cửa; mở cánh cửa hết hành trình và nhanh chóng ra khỏi xe ô tô.",
-      "3": "Chỉ sử dụng phanh trước.",
-      "4": "Cả ba ý trên."
+      "2": "Quan sát tình hình giao thông phía trước, không cần quan sát phía sau và bên mở cửa; mở cánh cửa hết hành trình và nhanh chóng ra khỏi xe ô tô."
     }
   },
   {
@@ -3952,8 +3722,7 @@ var d = {
     "info": {
       "1": "Kiểm tra que thăm dầu trên các-te. Quan sát vệt dầu trên que thăm, mức dầu này phải nằm ở mức tối đa được thể hiện trên que thăm.",
       "2": "Rút que thăm dầu trên các-te. Quan sát vệt dầu trên que thăm, mức dầu này phải nằm ở mức tối thiểu được thể hiện trên que thăm.",
-      "3": "Rút que thăm dầu trên các-te, lau sạch que thăm sau đó cắm vào các-te và rút ra quan sát vệt dầu trên que thăm, mức dầu phải nằm trong khoảng vạch mức tối thiểu và tối đa được thể hiện trên que thăm.",
-      "4": "Cả ba ý trên."
+      "3": "Rút que thăm dầu trên các-te, lau sạch que thăm sau đó cắm vào các-te và rút ra quan sát vệt dầu trên que thăm, mức dầu phải nằm trong khoảng vạch mức tối thiểu và tối đa được thể hiện trên que thăm."
     }
   },
   {
@@ -3967,8 +3736,7 @@ var d = {
     "info": {
       "1": "Kính chắn gió, kính cửa phải là loại kính an toàn, bảo đảm tầm nhìn cho người điều khiển; có đủ hệ thống hãm và hệ thống chuyển hướng có hiệu lực, tay lái xe ô tô ở bên trái của xe, có còi với âm lượng đúng quy chuẩn kỹ thuật.",
       "2": "Có đủ đèn chiếu sáng gần và xa, đèn soi biển số, đèn báo hãm, đèn tín hiệu; có đủ bộ phận giảm thanh, giảm khói, các kết cấu phải đủ độ bền và bảo đảm tính năng vận hành ổn định.",
-      "3": "Cả hai ý trên.",
-      "4": "Cả ba ý trên."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -3982,8 +3750,7 @@ var d = {
     "info": {
       "1": "Không bắt buộc.",
       "2": "Bắt buộc.",
-      "3": "Tùy từng trường hợp.",
-      "4": "Cả ba ý trên."
+      "3": "Tùy từng trường hợp."
     }
   },
   {
@@ -4011,9 +3778,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Là loại kính an toàn, kính nhiều lớp, đúng quy cách, không rạn nứt, bảo đảm hình ảnh quan sát rõ ràng, không bị méo mó.",
-      "2": "Là loại kính trong suốt, không rạn nứt, bảo đảm tầm nhìn cho người điều khiển về phía trước mặt và hai bên.",
-      "3": "Dàn đèn pha trên nóc xe.",
-      "4": "Ý 1 và ý 2."
+      "2": "Là loại kính trong suốt, không rạn nứt, bảo đảm tầm nhìn cho người điều khiển về phía trước mặt và hai bên."
     }
   },
   {
@@ -4027,8 +3792,7 @@ var d = {
     "info": {
       "1": "Bánh xe phải có kết cấu chắc chắn, lắp đặt đúng quy cách của nhà sản xuât.",
       "2": "Lốp phải đủ số lượng, đủ áp suất, không phồng rộp, đúng cỡ lốp của nhà sản xuất hoặc tài liệu kỹ thuật quy định; lốp trên cùng một trục của xe sử dụng trong điều kiện hoạt động bình thường phải cùng kiểu loại.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -4042,8 +3806,7 @@ var d = {
     "info": {
       "1": "Bảo đảm cho xe chuyển hướng chính xác, điều khiển nhẹ nhàng, an toàn ở mọi vận tốc và tải trọng trong phạm vi tính năng kỹ thuật cho phép của xe.",
       "2": "Khi hoạt động các cơ cấu chuyển động của hệ thống lái không được va chạm với bất kỳ bộ phận nào của xe; khi quay vô lăng lái về bên phải và bên trái thì không được có sự khác biệt đáng kể về lực tác động lên vành tay lái.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -4057,8 +3820,7 @@ var d = {
     "info": {
       "1": "Bảo dưỡng ô tô thường xuyên làm cho ô tô luôn luôn có tính năng kỹ thuật tốt, giảm cường độ hao mòn của các chi tiết, kéo dài tuổi thọ của xe.",
       "2": "Ngăn ngừa và phát hiện kịp thời các hư hỏng và sai lệch kỹ thuật để khắc phục, giữ gìn được hình thức bên ngoài.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -4072,8 +3834,7 @@ var d = {
     "info": {
       "1": "Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí, tạp chất.",
       "2": "Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí, không có tia lửa điện.",
-      "3": "Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí và nước, không có tia lửa điện.",
-      "4": "Ý 1 và ý 2."
+      "3": "Hết nhiên liệu, lõi lọc nhiên liệu bị tắc, lọc khí bị tắc, nhiên liệu lẫn không khí và nước, không có tia lửa điện."
     }
   },
   {
@@ -4087,8 +3848,7 @@ var d = {
     "info": {
       "1": "Ống xả không được đặt ở vị trí có thể gây cháy xe hoặc ảnh hưởng đến người ngồi trên xe và gây cản trở hoạt động của hệ thống khác.",
       "2": "Miệng thoát khí thải của ống xả không được hướng về phía trước và không được hướng về bên phải theo chiều tiến của xe.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -4102,8 +3862,7 @@ var d = {
     "info": {
       "1": "Đủ số lượng, lắp đặt chắc chắn không bị rách, đứt, khóa cài đóng, mở nhẹ nhàng, không tự mở, không bị kẹt; kéo ra thu vào dễ dàng, cơ cấu hãm giữ chặt dây khi giật dây đột ngột.",
       "2": "Đủ số lượng, lắp đặt chắc chắn không bị rách, đứt, khóa cài đóng, mở nhẹ nhàng, không tự mở, không bị kẹt; kéo ra thu vào dễ dàng, cơ cấu hãm mở ra khi giật dây đột ngột.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -4116,9 +3875,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Là loại động cơ: để hoàn thành một chu trình công tác của động cơ, pít tông thực hiện 2 (hai) hành trình, trong đó có một lần sinh công.",
-      "2": "Là loại động cơ: để hoàn thành một chu trình công tác của động cơ, pít tông thực hiện 4 (bốn) hành trình, trong đó có một lần sinh công.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "2": "Là loại động cơ: để hoàn thành một chu trình công tác của động cơ, pít tông thực hiện 4 (bốn) hành trình, trong đó có một lần sinh công."
     }
   },
   {
@@ -4132,8 +3889,7 @@ var d = {
     "info": {
       "1": "Cung cấp một lượng dầu bôi trơn đủ và sạch dưới áp suất nhất định đi bôi trơn cho các chi tiết của động cơ để giảm ma sát, giảm mài mòn, làm kín, làm sạch, làm mát và chống gỉ.",
       "2": "Cung cấp một lượng nhiên liệu đầy đủ và sạch để cho động cơ ô tô hoạt động.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -4147,8 +3903,7 @@ var d = {
     "info": {
       "1": "15 năm.",
       "2": "20 năm.",
-      "3": "25 năm.",
-      "4": "Ý 1 và ý 2."
+      "3": "25 năm."
     }
   },
   {
@@ -4162,8 +3917,7 @@ var d = {
     "info": {
       "1": "5 năm.",
       "2": "20 năm.",
-      "3": "25 năm.",
-      "4": "Ý 1 và ý 2."
+      "3": "25 năm."
     }
   },
   {
@@ -4177,8 +3931,7 @@ var d = {
     "info": {
       "1": "Khi làm việc, nhiệt năng được biến đổi thành cơ năng làm trục khủy động cơ quay, truyền lực đến các bánh xe chủ động tạo ra chuyển động tịnh tiến cho xe ô tô.",
       "2": "Khi làm việc, cơ năng được biến đổi thành nhiệt năng và truyền đến các bánh xe chủ động tạo ra chuyển động tịnh tiến cho xe ô tô.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -4192,8 +3945,7 @@ var d = {
     "info": {
       "1": "Dùng để truyền mô men quay từ động cơ tới các bánh xe chủ động của xe ô tô.",
       "2": "Dùng để thay đổi hướng chuyển động hoặc giữ cho xe ô tô chuyển động ổn định theo hướng xác định.",
-      "3": "Dùng để làm giảm tốc độ, dừng chuyển động của xe ô tô.",
-      "4": "Ý 1 và ý 2."
+      "3": "Dùng để làm giảm tốc độ, dừng chuyển động của xe ô tô."
     }
   },
   {
@@ -4207,8 +3959,7 @@ var d = {
     "info": {
       "1": "Dùng để truyền mô men xoắn giữa các trục không cùng nằm trên một đường thẳng và góc lệch trục luôn thay đổi trong quá trình xe ô tô chuyển động.",
       "2": "Dùng để truyền hoặc ngắt truyền động từ động cơ đến hộp số của xe ô tô.",
-      "3": "Dùng để truyền truyền động từ hộp số đến bánh xe chủ động của ô tô.",
-      "4": "Ý 1 và ý 2."
+      "3": "Dùng để truyền truyền động từ hộp số đến bánh xe chủ động của ô tô."
     }
   },
   {
@@ -4222,8 +3973,7 @@ var d = {
     "info": {
       "1": "Truyền và tăng mô men xoắn giữa các trục vuông góc nhau, bảo đảm cho các bánh xe chủ động quay với tốc độ khác nhau khi sức cản chuyển động ở bánh xe hai bên không bằng nhau.",
       "2": "Truyền và thay đổi mô men xoắn giữa các trục không cùng nằm trên một đường thẳng và góc lệch trục luôn thay đổi trong quá trình ô tô chuyển động, chuyển số êm dịu, dễ điều khiển.",
-      "3": "Truyền và thay đổi mô men từ động cơ đến bánh xe chủ động, cắt truyền động từ động cơ đến bánh xe chủ động, bảo đảm cho xe ô tô chuyển động lùi.",
-      "4": "Ý 1 và ý 2."
+      "3": "Truyền và thay đổi mô men từ động cơ đến bánh xe chủ động, cắt truyền động từ động cơ đến bánh xe chủ động, bảo đảm cho xe ô tô chuyển động lùi."
     }
   },
   {
@@ -4237,8 +3987,7 @@ var d = {
     "info": {
       "1": "Dùng để thay đổi mô men từ động cơ tới các bánh xe chủ động khi xe ô tô chuyển động theo hướng xác định.",
       "2": "Dùng để thay đổi mô men giữa các trục vuông góc nhau khi xe ô tô chuyển động theo hướng xác định.",
-      "3": "Dùng để thay đổi hướng chuyển động hoặc giữ cho xe ô tô chuyển động ổn định theo hướng xác định.",
-      "4": "Ý 1 và ý 2."
+      "3": "Dùng để thay đổi hướng chuyển động hoặc giữ cho xe ô tô chuyển động ổn định theo hướng xác định."
     }
   },
   {
@@ -4252,8 +4001,7 @@ var d = {
     "info": {
       "1": "Dùng để giảm tốc độ, dừng chuyển động của xe ô tô và giữ cho xe ô tô đứng yên trên dốc.",
       "2": "Dùng để thay đổi hướng chuyển động hoặc giữ cho xe ô tô chuyển động ổn định theo hướng xác định.",
-      "3": "Dùng để truyền hoặc ngắt truyền động từ động cơ đến bánh xe chủ động của xe ô tô.",
-      "4": "Ý 1 và ý 2."
+      "3": "Dùng để truyền hoặc ngắt truyền động từ động cơ đến bánh xe chủ động của xe ô tô."
     }
   },
   {
@@ -4267,8 +4015,7 @@ var d = {
     "info": {
       "1": "Có tác dụng cảnh báo cho các xe phía sau biết xe đang giảm tốc để chủ động tránh hoặc giảm tốc để tránh va chạm.",
       "2": "Có tác dụng định vị vào ban đêm với các xe từ phía sau tới để tránh va chạm.",
-      "3": "Cả hai ý trên.",
-      "4": "Ý 1 và ý 2."
+      "3": "Cả hai ý trên."
     }
   },
   {
@@ -4342,8 +4089,7 @@ var d = {
     "info": {
       "1": "Phải đạp hết hành trình bàn đạp chân phanh.",
       "2": "Không cần đạp phanh.",
-      "3": "Tùy từng trường hợp.",
-      "4": "Sắp hết nhiên liệu."
+      "3": "Tùy từng trường hợp."
     }
   },
   {
@@ -4386,9 +4132,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Ổn định chuyển động của xe ô tô khi đi vào đường vòng.",
-      "2": "Giữ chặt người lái và hành khách trên ghế ngồi khi xe ô tô đột ngột dừng lại.",
-      "3": "Hỗ trợ người lái xe khởi hành ngang dốc.",
-      "4": "Để tích trữ điện năng và cung cấp điện cho các phụ tải làm việc."
+      "2": "Giữ chặt người lái và hành khách trên ghế ngồi khi xe ô tô đột ngột dừng lại."
     }
   },
   {
@@ -4462,8 +4206,7 @@ var d = {
     "info": {
       "1": "Thay lốp xe.",
       "2": "Chữa cháy trong các trường hợp hỏa hoạn.",
-      "3": "Cầm máu cho người bị nạn.",
-      "4": "Vặn ốc để tháo lắp bánh xe."
+      "3": "Cầm máu cho người bị nạn."
     }
   },
   {
@@ -4552,8 +4295,7 @@ var d = {
     "info": {
       "1": "Biển 1 và biển 2.",
       "2": "Biển 1 và biển 3.",
-      "3": "Biển 2 và biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 2 và biển 3."
     }
   },
   {
@@ -4567,8 +4309,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -4582,8 +4323,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -4627,8 +4367,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -4657,8 +4396,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Biển 2 và biển 3."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -4671,9 +4409,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Biển 2 và biển 3."
+      "2": "Biển 2."
     }
   },
   {
@@ -4702,8 +4438,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả hai biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -4717,8 +4452,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Không biển nào.",
-      "4": "Cả hai biển."
+      "3": "Không biển nào."
     }
   },
   {
@@ -4732,8 +4466,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả hai biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -4807,8 +4540,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Không biển nào.",
-      "4": "Biển 1 và biển 3."
+      "3": "Không biển nào."
     }
   },
   {
@@ -4822,8 +4554,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Không biển nào.",
-      "4": "Biển 1 và biển 3."
+      "3": "Không biển nào."
     }
   },
   {
@@ -4837,8 +4568,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Biển 1 và biển 3."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -4852,8 +4582,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Biển 1 và biển 3."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -4867,8 +4596,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả ba biển.",
-      "4": "Biển 1 và biển 3."
+      "3": "Cả ba biển."
     }
   },
   {
@@ -4882,8 +4610,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 1 và biển 2.",
-      "4": "Biển 1 và biển 3."
+      "3": "Biển 1 và biển 2."
     }
   },
   {
@@ -4927,8 +4654,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả ba biển.",
-      "4": "Biển 3."
+      "3": "Cả ba biển."
     }
   },
   {
@@ -4942,8 +4668,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Biển 3."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -4957,8 +4682,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -4987,8 +4711,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 1 và biển 2."
+      "3": "Biển 3."
     }
   },
   {
@@ -5002,8 +4725,7 @@ var d = {
     "info": {
       "1": "Đường cấm súc vật vận tải hàng hóa.",
       "2": "Đường cấm súc vật vận tải hành khách.",
-      "3": "Đường cấm súc vật vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua.",
-      "4": "Biển 1 và biển 2."
+      "3": "Đường cấm súc vật vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua."
     }
   },
   {
@@ -5016,9 +4738,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Tốc độ tối đa cho phép về ban đêm cho các phương tiện là 70 km/h.",
-      "2": "Tốc độ tối thiểu cho phép về ban đêm cho các phương tiện là 70 km/h.",
-      "3": "Đường cấm súc vật vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua.",
-      "4": "Biển 1 và biển 2."
+      "2": "Tốc độ tối thiểu cho phép về ban đêm cho các phương tiện là 70 km/h."
     }
   },
   {
@@ -5031,9 +4751,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Được phép.",
-      "2": "Không được phép.",
-      "3": "Đường cấm súc vật vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua.",
-      "4": "Biển 1 và biển 2."
+      "2": "Không được phép."
     }
   },
   {
@@ -5047,8 +4765,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 1 và biển 2."
+      "3": "Biển 3."
     }
   },
   {
@@ -5061,9 +4778,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Cho phép xe ô tô có tải trọng trục lớn hơn 7 tấn đi qua.",
-      "2": "Cho phép xe ô tô có tải trọng trên trục xe từ 7 tấn trở xuống đi qua.",
-      "3": "Biển 3.",
-      "4": "Biển 1 và biển 2."
+      "2": "Cho phép xe ô tô có tải trọng trên trục xe từ 7 tấn trở xuống đi qua."
     }
   },
   {
@@ -5077,8 +4792,7 @@ var d = {
     "info": {
       "1": "Cấm các loại xe có tải trọng toàn bộ trên 10 tấn đi qua.",
       "2": "Hạn chế khối lượng hàng hóa chở trên xe.",
-      "3": "Hạn chế tải trọng trên trục xe.",
-      "4": "Biển 1 và biển 2."
+      "3": "Hạn chế tải trọng trên trục xe."
     }
   },
   {
@@ -5092,8 +4806,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Biển 1 và biển 2."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -5106,9 +4819,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Được đi vào.",
-      "2": "Không được đi vào.",
-      "3": "Cả hai biển.",
-      "4": "Biển 1 và biển 2."
+      "2": "Không được đi vào."
     }
   },
   {
@@ -5151,9 +4862,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Được phép.",
-      "2": "Không được phép.",
-      "3": "Biển 2 và biển 3.",
-      "4": "Cả ba biển."
+      "2": "Không được phép."
     }
   },
   {
@@ -5166,9 +4875,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Có.",
-      "2": "Không.",
-      "3": "Biển 2 và biển 3.",
-      "4": "Cả ba biển."
+      "2": "Không."
     }
   },
   {
@@ -5182,8 +4889,7 @@ var d = {
     "info": {
       "1": "Cấm xe cơ giới (trừ xe ưu tiên theo luật định) đi thẳng.",
       "2": "Cấm các loại xe cơ giới và xe mô tô (trừ xe ưu tiên theo luật định) đi về bên trái và bên phải.",
-      "3": "Hướng trái và phải không cấm xe cơ giới.",
-      "4": "Cả ba biển."
+      "3": "Hướng trái và phải không cấm xe cơ giới."
     }
   },
   {
@@ -5197,8 +4903,7 @@ var d = {
     "info": {
       "1": "Báo khoảng cách đến nơi cấm bóp còi.",
       "2": "Chiều dài đoạn đường cấm bóp còi từ nơi đặt biển.",
-      "3": "Báo cấm dùng còi có độ vang xa 500m.",
-      "4": "Cả ba biển."
+      "3": "Báo cấm dùng còi có độ vang xa 500m."
     }
   },
   {
@@ -5211,9 +4916,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Được phép.",
-      "2": "Không được phép.",
-      "3": "Báo cấm dùng còi có độ vang xa 500m.",
-      "4": "Cả ba biển."
+      "2": "Không được phép."
     }
   },
   {
@@ -5227,8 +4930,7 @@ var d = {
     "info": {
       "1": "Biển 1 và biển 2.",
       "2": "Biển 1 và biển 3.",
-      "3": "Biển 2 và biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 2 và biển 3."
     }
   },
   {
@@ -5242,8 +4944,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -5256,9 +4957,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Cấm các loại xe ở biển phụ đi vào.",
-      "2": "Cấm các loại xe cơ giới đi vào trừ loại xe ở biển phụ.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "2": "Cấm các loại xe cơ giới đi vào trừ loại xe ở biển phụ."
     }
   },
   {
@@ -5272,8 +4971,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -5287,8 +4985,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -5302,8 +4999,7 @@ var d = {
     "info": {
       "1": "Cấm dừng xe về hướng bên trái.",
       "2": "Cấm dừng và đỗ xe theo hướng bên phải.",
-      "3": "Được phép đỗ xe và dừng xe theo hướng bên phải.",
-      "4": "Cả ba biển."
+      "3": "Được phép đỗ xe và dừng xe theo hướng bên phải."
     }
   },
   {
@@ -5316,9 +5012,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Không được phép.",
-      "2": "Được phép.",
-      "3": "Được phép đỗ xe và dừng xe theo hướng bên phải.",
-      "4": "Cả ba biển."
+      "2": "Được phép."
     }
   },
   {
@@ -5331,9 +5025,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Không được phép.",
-      "2": "Được phép.",
-      "3": "Được phép đỗ xe và dừng xe theo hướng bên phải.",
-      "4": "Cả ba biển."
+      "2": "Được phép."
     }
   },
   {
@@ -5346,9 +5038,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Không được phép.",
-      "2": "Được phép.",
-      "3": "Được phép đỗ xe và dừng xe theo hướng bên phải.",
-      "4": "Cả ba biển."
+      "2": "Được phép."
     }
   },
   {
@@ -5362,8 +5052,7 @@ var d = {
     "info": {
       "1": "Cấm ô tô buýt.",
       "2": "Cấm xe ô tô khách.",
-      "3": "Cấm xe ô tô con.",
-      "4": "Cả ba biển."
+      "3": "Cấm xe ô tô con."
     }
   },
   {
@@ -5377,8 +5066,7 @@ var d = {
     "info": {
       "1": "Hạn chế chiều cao của xe và hàng.",
       "2": "Hạn chế chiều ngang của xe và hàng.",
-      "3": "Hạn chế chiều dài của xe và hàng.",
-      "4": "Cả ba biển."
+      "3": "Hạn chế chiều dài của xe và hàng."
     }
   },
   {
@@ -5392,8 +5080,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -5406,9 +5093,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "2": "Biển 2."
     }
   },
   {
@@ -5421,9 +5106,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "2": "Biển 2."
     }
   },
   {
@@ -5437,8 +5120,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -5451,9 +5133,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Tốc độ tối đa các xe cơ giới được phép chạy.",
-      "2": "Tốc độ tối thiểu các xe cơ giới được phép chạy.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "2": "Tốc độ tối thiểu các xe cơ giới được phép chạy."
     }
   },
   {
@@ -5467,8 +5147,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -5481,9 +5160,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Báo hiệu tốc độ tối đa cho phép các xe cơ giới chạy.",
-      "2": "Báo hiệu tốc độ tối thiểu cho phép các xe cơ giới chạy.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "2": "Báo hiệu tốc độ tối thiểu cho phép các xe cơ giới chạy."
     }
   },
   {
@@ -5497,8 +5174,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -5527,8 +5203,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -5557,8 +5232,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2 và biển 3.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -5632,8 +5306,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 1 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -5647,8 +5320,7 @@ var d = {
     "info": {
       "1": "Để chỉ nơi đường sắt giao vuông góc với đường bộ không có rào chắn.",
       "2": "Để báo trước sắp đến vị trí giao cắt đường bộ với đường sắt cùng mức, không vuông góc và không có người gác, không có rào chắn.",
-      "3": "Nơi đường sắt giao nhau với đường bộ.",
-      "4": "Biển 1 và biển 3."
+      "3": "Nơi đường sắt giao nhau với đường bộ."
     }
   },
   {
@@ -5677,8 +5349,7 @@ var d = {
     "info": {
       "1": "Nơi đường sắt giao nhau với đường bộ.",
       "2": "Nơi đường sắt giao vuông góc với đường bộ.",
-      "3": "Để báo trước sắp đến vị trí đường sắt giao không vuông góc với đường bộ, không có người gác và không có rào chắn.",
-      "4": "Biển 1 và biển 2."
+      "3": "Để báo trước sắp đến vị trí đường sắt giao không vuông góc với đường bộ, không có người gác và không có rào chắn."
     }
   },
   {
@@ -5692,8 +5363,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 1 và biển 2."
+      "3": "Biển 3."
     }
   },
   {
@@ -5737,8 +5407,7 @@ var d = {
     "info": {
       "1": "Biển 1 và biển 3.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -5797,8 +5466,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -5812,8 +5480,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -5827,8 +5494,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -5842,8 +5508,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -5872,8 +5537,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -5887,8 +5551,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -5902,8 +5565,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -5917,8 +5579,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -5932,8 +5593,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -5947,8 +5607,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -5962,8 +5621,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2 và biển 3.",
-      "3": "Cả ba biển.",
-      "4": "Biển 2 và biển 3."
+      "3": "Cả ba biển."
     }
   },
   {
@@ -5977,8 +5635,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Biển 2 và biển 3."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -5992,8 +5649,7 @@ var d = {
     "info": {
       "1": "Cả ba biển.",
       "2": "Biển 2.",
-      "3": "Biển 2 và biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 2 và biển 3."
     }
   },
   {
@@ -6007,8 +5663,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -6022,8 +5677,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -6037,8 +5691,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 2 và biển 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -6067,8 +5720,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 1 và biển 2."
+      "3": "Biển 3."
     }
   },
   {
@@ -6082,8 +5734,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 1 và biển 2."
+      "3": "Biển 3."
     }
   },
   {
@@ -6097,8 +5748,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển 1 và biển 2."
+      "3": "Biển 3."
     }
   },
   {
@@ -6127,8 +5777,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Không biển nào."
+      "3": "Biển 3."
     }
   },
   {
@@ -6156,9 +5805,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "2": "Biển 2."
     }
   },
   {
@@ -6172,8 +5819,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 3."
     }
   },
   {
@@ -6202,8 +5848,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -6216,9 +5861,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "2": "Biển 2."
     }
   },
   {
@@ -6231,9 +5874,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "2": "Biển 2."
     }
   },
   {
@@ -6246,9 +5887,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái.",
-      "2": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái khi đường cong vòng sang phải.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "2": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái khi đường cong vòng sang phải."
     }
   },
   {
@@ -6262,8 +5901,7 @@ var d = {
     "info": {
       "1": "Báo trước đoạn đường có gió ngang.",
       "2": "Báo trước đoạn đường trơn trượt.",
-      "3": "Báo trước sắp đến bến phà.",
-      "4": "Cả ba biển."
+      "3": "Báo trước sắp đến bến phà."
     }
   },
   {
@@ -6276,9 +5914,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Báo hiệu đường có ổ gà, lồi lõm.",
-      "2": "Báo hiệu đường có gồ giảm tốc phía trước.",
-      "3": "Báo trước sắp đến bến phà.",
-      "4": "Cả ba biển."
+      "2": "Báo hiệu đường có gồ giảm tốc phía trước."
     }
   },
   {
@@ -6291,9 +5927,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Báo hiệu đường có ổ gà, lồi lõm.",
-      "2": "Báo hiệu đường có gồ giảm tốc phía trước.",
-      "3": "Báo trước sắp đến bến phà.",
-      "4": "Cả ba biển."
+      "2": "Báo hiệu đường có gồ giảm tốc phía trước."
     }
   },
   {
@@ -6307,8 +5941,7 @@ var d = {
     "info": {
       "1": "Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường.",
       "2": "Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi văng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông.",
-      "3": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm.",
-      "4": "Cả ba biển."
+      "3": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm."
     }
   },
   {
@@ -6322,8 +5955,7 @@ var d = {
     "info": {
       "1": "Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường.",
       "2": "Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi văng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông.",
-      "3": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm.",
-      "4": "Cả ba biển."
+      "3": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm."
     }
   },
   {
@@ -6337,8 +5969,7 @@ var d = {
     "info": {
       "1": "Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường.",
       "2": "Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi văng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông.",
-      "3": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm.",
-      "4": "Cả ba biển."
+      "3": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm."
     }
   },
   {
@@ -6351,9 +5982,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Đi chậm, quan sát và dừng lại nếu gặp gia súc trên đường.",
-      "2": "Bấm còi to để gia súc tránh đường và nhanh chóng di chuyển qua đoạn đường có gia súc.",
-      "3": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm.",
-      "4": "Cả ba biển."
+      "2": "Bấm còi to để gia súc tránh đường và nhanh chóng di chuyển qua đoạn đường có gia súc."
     }
   },
   {
@@ -6366,9 +5995,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Báo hiệu khu vực nguy hiểm thường xuyên có sét đánh.",
-      "2": "Báo hiệu khu vực có đường dây điện cắt ngang phía trên tuyến đường.",
-      "3": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm.",
-      "4": "Cả ba biển."
+      "2": "Báo hiệu khu vực có đường dây điện cắt ngang phía trên tuyến đường."
     }
   },
   {
@@ -6382,8 +6009,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -6397,8 +6023,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -6411,9 +6036,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "2": "Biển 2."
     }
   },
   {
@@ -6426,9 +6049,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "2": "Biển 2."
     }
   },
   {
@@ -6441,9 +6062,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "2": "Biển 2."
     }
   },
   {
@@ -6457,8 +6076,7 @@ var d = {
     "info": {
       "1": "Chỉ hướng đi phải theo.",
       "2": "Biển báo hiệu cho người lái xe biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường phải theo.",
-      "3": "Chỉ hướng đường phải theo.",
-      "4": "Cả ba biển."
+      "3": "Chỉ hướng đường phải theo."
     }
   },
   {
@@ -6472,8 +6090,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Không biển nào.",
-      "4": "Cả ba biển."
+      "3": "Không biển nào."
     }
   },
   {
@@ -6486,9 +6103,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Không biển nào.",
-      "4": "Cả ba biển."
+      "2": "Biển 2."
     }
   },
   {
@@ -6502,8 +6117,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -6637,8 +6251,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Cả ba biển."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -6667,8 +6280,7 @@ var d = {
     "info": {
       "1": "Biển chỉ dẫn hết cấm đỗ xe theo giờ trong khu vực.",
       "2": "Biển chỉ dẫn hết hiệu lực khu vực đỗ xe trên các tuyến đường đối ngoại.",
-      "3": "Biển chỉ dẫn khu vực đỗ xe trên các tuyến đường đối ngoại.",
-      "4": "Biển 1 và biển 2."
+      "3": "Biển chỉ dẫn khu vực đỗ xe trên các tuyến đường đối ngoại."
     }
   },
   {
@@ -6697,8 +6309,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển chỉ dẫn hết hiệu lực khu vực cấm đỗ xe theo giờ trên các tuyến đường đối ngoại."
+      "3": "Biển 3."
     }
   },
   {
@@ -6712,8 +6323,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Biển chỉ dẫn hết hiệu lực khu vực cấm đỗ xe theo giờ trên các tuyến đường đối ngoại."
+      "3": "Biển 3."
     }
   },
   {
@@ -6727,8 +6337,7 @@ var d = {
     "info": {
       "1": "Biển 1 và 2.",
       "2": "Cả ba biển.",
-      "3": "Không biển nào.",
-      "4": "Biển chỉ dẫn hết hiệu lực khu vực cấm đỗ xe theo giờ trên các tuyến đường đối ngoại."
+      "3": "Không biển nào."
     }
   },
   {
@@ -6772,8 +6381,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Không biển nào."
+      "3": "Biển 3."
     }
   },
   {
@@ -6787,8 +6395,7 @@ var d = {
     "info": {
       "1": "Đỗ xe hoàn toàn trên hè phố.",
       "2": "Đỗ xe hoàn toàn dưới lòng đường.",
-      "3": "Đỗ từ 1/2 thân xe trở lên trên hè phố.",
-      "4": "Không biển nào."
+      "3": "Đỗ từ 1/2 thân xe trở lên trên hè phố."
     }
   },
   {
@@ -6802,8 +6409,7 @@ var d = {
     "info": {
       "1": "Dừng xe tại khu vực có trạm Cảnh sát giao thông.",
       "2": "Tiếp tục lưu thông với tốc độ bình thường.",
-      "3": "Phải giảm tốc độ đến mức an toàn và không được vượt khi đi qua khu vực này.",
-      "4": "Không biển nào."
+      "3": "Phải giảm tốc độ đến mức an toàn và không được vượt khi đi qua khu vực này."
     }
   },
   {
@@ -6816,9 +6422,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Bắt buộc.",
-      "2": "Không bắt buộc.",
-      "3": "Phải giảm tốc độ đến mức an toàn và không được vượt khi đi qua khu vực này.",
-      "4": "Không biển nào."
+      "2": "Không bắt buộc."
     }
   },
   {
@@ -6832,8 +6436,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Không biển nào."
+      "3": "Biển 3."
     }
   },
   {
@@ -6862,8 +6465,7 @@ var d = {
     "info": {
       "1": "Đi thẳng hoặc rẽ trái trên cầu vượt.",
       "2": "Đi thẳng hoặc rẽ phải trên cầu vượt.",
-      "3": "Báo hiệu cầu vượt liên thông.",
-      "4": "Cả ba biển."
+      "3": "Báo hiệu cầu vượt liên thông."
     }
   },
   {
@@ -6877,8 +6479,7 @@ var d = {
     "info": {
       "1": "Biển 1 và biển 2.",
       "2": "Biển 1 và biển 3.",
-      "3": "Biển 2 và biển 3.",
-      "4": "Cả ba biển."
+      "3": "Biển 2 và biển 3."
     }
   },
   {
@@ -6906,9 +6507,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Được phép chuyển sang làn khác.",
-      "2": "Không được phép chuyển sang làn khác, chỉ được đi trong làn quy định theo biển.",
-      "3": "Báo hiệu nút giao gần nhất phía trước.",
-      "4": "Báo hiệu trạm dừng nghỉ phía trước."
+      "2": "Không được phép chuyển sang làn khác, chỉ được đi trong làn quy định theo biển."
     }
   },
   {
@@ -6921,9 +6520,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Có.",
-      "2": "Không.",
-      "3": "Báo hiệu nút giao gần nhất phía trước.",
-      "4": "Báo hiệu trạm dừng nghỉ phía trước."
+      "2": "Không."
     }
   },
   {
@@ -6936,9 +6533,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Có.",
-      "2": "Không.",
-      "3": "Báo hiệu nút giao gần nhất phía trước.",
-      "4": "Báo hiệu trạm dừng nghỉ phía trước."
+      "2": "Không."
     }
   },
   {
@@ -6952,8 +6547,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Báo hiệu trạm dừng nghỉ phía trước."
+      "3": "Biển 3."
     }
   },
   {
@@ -6967,8 +6561,7 @@ var d = {
     "info": {
       "1": "Chỉ dẫn sắp đến vị trí nhập làn xe.",
       "2": "Chỉ dẫn vị trí nhập làn xe cách 250 m.",
-      "3": "Chỉ dẫn vị trí nhập làn cách trạm thu phí 250 m.",
-      "4": "Báo hiệu trạm dừng nghỉ phía trước."
+      "3": "Chỉ dẫn vị trí nhập làn cách trạm thu phí 250 m."
     }
   },
   {
@@ -6982,8 +6575,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Cả hai biển.",
-      "4": "Báo hiệu trạm dừng nghỉ phía trước."
+      "3": "Cả hai biển."
     }
   },
   {
@@ -7012,8 +6604,7 @@ var d = {
     "info": {
       "1": "Xăng dầu, ăn uống, thông tin, sửa chữa xe.",
       "2": "Xăng dầu, ăn uống, nhà nghỉ, sửa chữa xe.",
-      "3": "Xăng dầu, ăn uống, cấp cứu, sửa chữa xe.",
-      "4": "Ý 1 và ý 3."
+      "3": "Xăng dầu, ăn uống, cấp cứu, sửa chữa xe."
     }
   },
   {
@@ -7027,8 +6618,7 @@ var d = {
     "info": {
       "1": "Chỉ dẫn đến trạm kiểm tra tải trọng xe.",
       "2": "Chỉ dẫn hướng rẽ vào nơi đặt trạm kiểm tra tải trọng xe.",
-      "3": "Chỉ dẫn khoảng cách đến trạm kiểm tra tải trọng xe cách 750 m.",
-      "4": "Ý 1 và ý 3."
+      "3": "Chỉ dẫn khoảng cách đến trạm kiểm tra tải trọng xe cách 750 m."
     }
   },
   {
@@ -7042,8 +6632,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Ý 1 và ý 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -7057,8 +6646,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Ý 1 và ý 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -7072,8 +6660,7 @@ var d = {
     "info": {
       "1": "Biển 1.",
       "2": "Biển 2.",
-      "3": "Biển 3.",
-      "4": "Ý 1 và ý 3."
+      "3": "Biển 3."
     }
   },
   {
@@ -7101,9 +6688,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Biển 1.",
-      "2": "Biển 2.",
-      "3": "Biển 2.",
-      "4": "Biển 3."
+      "2": "Biển 2."
     }
   },
   {
@@ -7116,9 +6701,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Chỉ dẫn chướng ngại vật phía trước để cảnh báo phía trước có sự cản trở lưu thông bình thường (nằm bên trong phần xe chạy hay ngay sát phần đường xe chạy) và chỉ dẫn hướng đi qua đó cần đặt biển.",
-      "2": "Chỉ dẫn hướng rẽ để nhắc người điều khiển phương tiện chuẩn bị đổi hướng đi khi sắp vào đường cong nguy hiểm, có bán kính cong nhỏ.",
-      "3": "Biển 2.",
-      "4": "Biển 3."
+      "2": "Chỉ dẫn hướng rẽ để nhắc người điều khiển phương tiện chuẩn bị đổi hướng đi khi sắp vào đường cong nguy hiểm, có bán kính cong nhỏ."
     }
   },
   {
@@ -7191,9 +6774,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Phân chia hai chiều xe chạy ngược chiều nhau.",
-      "2": "Phân chia các làn xe chạy cùng chiều nhau.",
-      "3": "Vạch 3.",
-      "4": "Vạch 1 và vạch 3."
+      "2": "Phân chia các làn xe chạy cùng chiều nhau."
     }
   },
   {
@@ -7206,9 +6787,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Phân chia hai chiều xe chạy ngược chiều nhau.",
-      "2": "Phân chia các làn xe chạy cùng chiều nhau.",
-      "3": "Vạch 3.",
-      "4": "Vạch 1 và vạch 3."
+      "2": "Phân chia các làn xe chạy cùng chiều nhau."
     }
   },
   {
@@ -7237,8 +6816,7 @@ var d = {
     "info": {
       "1": "Để xác định làn đường.",
       "2": "Báo hiệu người lái xe chỉ được phép đi thẳng.",
-      "3": "Dùng để xác định khoảng cách giữa các phương tiện trên đường.",
-      "4": "Vạch 1 và vạch 3."
+      "3": "Dùng để xác định khoảng cách giữa các phương tiện trên đường."
     }
   },
   {
@@ -7252,8 +6830,7 @@ var d = {
     "info": {
       "1": "Báo cho người điều khiển không được dừng phương tiện trong phạm vi phần mặt đường có bố trí vạch để tránh ùn tắc giao thông.",
       "2": "Báo hiệu sắp đến chỗ có bố trí vạch đi bộ qua đường.",
-      "3": "Dùng để xác định khoảng cách giữa các phương tiện trên đường.",
-      "4": "Vạch 1 và vạch 3."
+      "3": "Dùng để xác định khoảng cách giữa các phương tiện trên đường."
     }
   },
   {
@@ -7267,8 +6844,7 @@ var d = {
     "info": {
       "1": "Vị trí dừng xe của các phương tiện vận tải hành khách công cộng.",
       "2": "Báo cho người điều khiển được dừng phương tiện trong phạm vi phần mặt đường có bố trí vạch để tránh ùn tắc giao thông.",
-      "3": "Dùng để xác định vị trí giữa các phương tiện trên đường.",
-      "4": "Vạch 1 và vạch 3."
+      "3": "Dùng để xác định vị trí giữa các phương tiện trên đường."
     }
   },
   {
@@ -7282,8 +6858,7 @@ var d = {
     "info": {
       "1": "Xe khách, xe tải, xe mô tô.",
       "2": "Xe tải, xe mô tô.",
-      "3": "Chỉ xe con.",
-      "4": "Vạch 1 và vạch 3."
+      "3": "Chỉ xe con."
     }
   },
   {
@@ -7356,9 +6931,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe con.",
-      "2": "Xe tải.",
-      "3": "Xe mô tô, xe con, xe tải.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "2": "Xe tải."
     }
   },
   {
@@ -7371,9 +6944,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe mô tô.",
-      "2": "Xe con.",
-      "3": "Xe mô tô, xe con, xe tải.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "2": "Xe con."
     }
   },
   {
@@ -7387,8 +6958,7 @@ var d = {
     "info": {
       "1": "Xe con (A), xe cứu thương đi làm nhiệm vụ cấp cứu, xe con (B).",
       "2": "Xe cứu thương đi làm nhiệm vụ cấp cứu, xe con (B), xe con (A).",
-      "3": "Xe con (B), xe con (A), xe cứu thương đi làm nhiệm vụ cấp cứu.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "3": "Xe con (B), xe con (A), xe cứu thương đi làm nhiệm vụ cấp cứu."
     }
   },
   {
@@ -7402,8 +6972,7 @@ var d = {
     "info": {
       "1": "Xe cứu thương đi làm nhiệm vụ cấp cứu, xe chữa cháy đi làm nhiệm vụ chữa cháy, xe con.",
       "2": "Xe chữa cháy đi làm nhiệm vụ chữa cháy, xe cứu thương đi làm nhiệm vụ cấp cứu, xe con.",
-      "3": "Xe cứu thương đi làm nhiệm vụ cấp cứu, xe con, xe chữa cháy đi làm nhiệm vụ chữa cháy.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "3": "Xe cứu thương đi làm nhiệm vụ cấp cứu, xe con, xe chữa cháy đi làm nhiệm vụ chữa cháy."
     }
   },
   {
@@ -7416,9 +6985,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe mô tô.",
-      "2": "Xe cứu thương đi làm nhiệm vụ cấp cứu.",
-      "3": "Xe cứu thương đi làm nhiệm vụ cấp cứu, xe con, xe chữa cháy đi làm nhiệm vụ chữa cháy.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "2": "Xe cứu thương đi làm nhiệm vụ cấp cứu."
     }
   },
   {
@@ -7432,8 +6999,7 @@ var d = {
     "info": {
       "1": "Xe khách.",
       "2": "Xe tải.",
-      "3": "Xe con.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "3": "Xe con."
     }
   },
   {
@@ -7446,9 +7012,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe con.",
-      "2": "Xe tải.",
-      "3": "Xe con.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "2": "Xe tải."
     }
   },
   {
@@ -7461,9 +7025,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe công an đi làm nhiệm vụ khẩn cấp.",
-      "2": "Xe chữa cháy đi làm nhiệm vụ chữa cháy.",
-      "3": "Xe con.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "2": "Xe chữa cháy đi làm nhiệm vụ chữa cháy."
     }
   },
   {
@@ -7476,9 +7038,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe con và xe khách.",
-      "2": "Xe mô tô.",
-      "3": "Xe con.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "2": "Xe mô tô."
     }
   },
   {
@@ -7492,8 +7052,7 @@ var d = {
     "info": {
       "1": "Xe khách, xe mô tô.",
       "2": "Xe con, xe tải.",
-      "3": "Xe tải, xe mô tô.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "3": "Xe tải, xe mô tô."
     }
   },
   {
@@ -7506,9 +7065,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe công an đi làm nhiệm vụ khẩn cấp.",
-      "2": "Xe quân sự đi làm nhiệm vụ khẩn cấp.",
-      "3": "Xe tải, xe mô tô.",
-      "4": "Xe con, xe mô tô, xe tải."
+      "2": "Xe quân sự đi làm nhiệm vụ khẩn cấp."
     }
   },
   {
@@ -7537,8 +7094,7 @@ var d = {
     "info": {
       "1": "Xe khách, xe tải, xe mô tô.",
       "2": "Xe tải, xe con, xe mô tô.",
-      "3": "Xe khách, xe con, xe mô tô.",
-      "4": "Hướng 3 và 4."
+      "3": "Xe khách, xe con, xe mô tô."
     }
   },
   {
@@ -7582,8 +7138,7 @@ var d = {
     "info": {
       "1": "Cả ba hướng.",
       "2": "Xe con (B).",
-      "3": "Xe con (A).",
-      "4": "Xe con và xe tải."
+      "3": "Xe con (A)."
     }
   },
   {
@@ -7597,8 +7152,7 @@ var d = {
     "info": {
       "1": "Cả ba hướng",
       "2": "Chỉ hướng 1 và 3.",
-      "3": "Chỉ hướng 1.",
-      "4": "Xe con và xe tải."
+      "3": "Chỉ hướng 1."
     }
   },
   {
@@ -7641,9 +7195,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Đúng.",
-      "2": "Không đúng.",
-      "3": "Cả ba xe.",
-      "4": "Chỉ xe mô tô và xe tải."
+      "2": "Không đúng."
     }
   },
   {
@@ -7656,9 +7208,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Hướng 2 và 5.",
-      "2": "Chỉ hướng 1.",
-      "3": "Cả ba xe.",
-      "4": "Chỉ xe mô tô và xe tải."
+      "2": "Chỉ hướng 1."
     }
   },
   {
@@ -7687,8 +7237,7 @@ var d = {
     "info": {
       "1": "Cả hai xe đều đúng.",
       "2": "Xe con.",
-      "3": "Xe khách.",
-      "4": "Hướng 2 và 3."
+      "3": "Xe khách."
     }
   },
   {
@@ -7702,8 +7251,7 @@ var d = {
     "info": {
       "1": "Hướng 2 và 3.",
       "2": "Hướng 1, 2 và 3.",
-      "3": "Hướng 1 và 3.",
-      "4": "Hướng 2 và 3."
+      "3": "Hướng 1 và 3."
     }
   },
   {
@@ -7716,9 +7264,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Không.",
-      "2": "Vi phạm.",
-      "3": "Hướng 1 và 3.",
-      "4": "Hướng 2 và 3."
+      "2": "Vi phạm."
     }
   },
   {
@@ -7731,9 +7277,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe khách.",
-      "2": "Xe tải.",
-      "3": "Hướng 1 và 3.",
-      "4": "Hướng 2 và 3."
+      "2": "Xe tải."
     }
   },
   {
@@ -7746,9 +7290,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe con.",
-      "2": "Xe mô tô.",
-      "3": "Hướng 1 và 3.",
-      "4": "Hướng 2 và 3."
+      "2": "Xe mô tô."
     }
   },
   {
@@ -7761,9 +7303,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Không đúng.",
-      "2": "Đúng.",
-      "3": "Hướng 1 và 3.",
-      "4": "Hướng 2 và 3."
+      "2": "Đúng."
     }
   },
   {
@@ -7821,9 +7361,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Cả ba hướng.",
-      "2": "Hướng 2 và 3.",
-      "3": "Hướng 1, 2 và 3.",
-      "4": "Cả bốn hướng."
+      "2": "Hướng 2 và 3."
     }
   },
   {
@@ -7866,9 +7404,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe mô tô.",
-      "2": "Xe con.",
-      "3": "Hướng 2, 3 và 4.",
-      "4": "Trừ hướng 4."
+      "2": "Xe con."
     }
   },
   {
@@ -7881,9 +7417,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Không vi phạm.",
-      "2": "Vi phạm.",
-      "3": "Hướng 2, 3 và 4.",
-      "4": "Trừ hướng 4."
+      "2": "Vi phạm."
     }
   },
   {
@@ -7912,8 +7446,7 @@ var d = {
     "info": {
       "1": "Các xe ở phía tay phải và tay trái của người điều khiển được phép đi thẳng.",
       "2": "Cho phép các xe ở mọi hướng được phép rẽ phải.",
-      "3": "Tất cả các xe phải dừng lại trước ngã tư, trừ những xe đã ở trong ngã tư được phép tiếp tục đi.",
-      "4": "Xe con và xe mô tô."
+      "3": "Tất cả các xe phải dừng lại trước ngã tư, trừ những xe đã ở trong ngã tư được phép tiếp tục đi."
     }
   },
   {
@@ -7941,9 +7474,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Đúng.",
-      "2": "Không đúng.",
-      "3": "Xe mô tô, xe tải.",
-      "4": "Cả ba xe."
+      "2": "Không đúng."
     }
   },
   {
@@ -7957,8 +7488,7 @@ var d = {
     "info": {
       "1": "Xe tải.",
       "2": "Cả hai xe.",
-      "3": "Xe con.",
-      "4": "Cả ba xe."
+      "3": "Xe con."
     }
   },
   {
@@ -7972,8 +7502,7 @@ var d = {
     "info": {
       "1": "Xe chữa cháy đi làm nhiệm vụ chữa cháy.",
       "2": "Xe tải.",
-      "3": "Cả hai xe.",
-      "4": "Cả ba xe."
+      "3": "Cả hai xe."
     }
   },
   {
@@ -7987,8 +7516,7 @@ var d = {
     "info": {
       "1": "Xe khách, xe tải, xe con.",
       "2": "Xe con, xe tải, xe khách.",
-      "3": "Xe tải, xe khách, xe con.",
-      "4": "Cả ba xe."
+      "3": "Xe tải, xe khách, xe con."
     }
   },
   {
@@ -8002,8 +7530,7 @@ var d = {
     "info": {
       "1": "Xe khách và xe tải, xe con.",
       "2": "Xe tải, xe khách, xe con.",
-      "3": "Xe con, xe khách, xe tải.",
-      "4": "Cả ba xe."
+      "3": "Xe con, xe khách, xe tải."
     }
   },
   {
@@ -8017,8 +7544,7 @@ var d = {
     "info": {
       "1": "Cả bốn hướng.",
       "2": "Chỉ hướng 1 và 2.",
-      "3": "Trừ hướng 4.",
-      "4": "Cả ba xe."
+      "3": "Trừ hướng 4."
     }
   },
   {
@@ -8062,8 +7588,7 @@ var d = {
     "info": {
       "1": "Chỉ xe khách, xe mô tô.",
       "2": "Tất cả các loại xe trên.",
-      "3": "Không xe nào chấp hành đúng quy tắc giao thông.",
-      "4": "Hướng 1, 3 và 4."
+      "3": "Không xe nào chấp hành đúng quy tắc giao thông."
     }
   },
   {
@@ -8092,8 +7617,7 @@ var d = {
     "info": {
       "1": "Xe công an đi làm nhiệm vụ khẩn cấp, xe quân sự đi làm nhiệm vụ khẩn cấp, xe con + xe mô tô.",
       "2": "Xe quân sự đi làm nhiệm vụ khẩn cấp, xe công an đi làm nhiệm vụ khẩn cấp, xe con + xe mô tô.",
-      "3": "Xe mô tô + xe con, xe quân sự đi làm nhiệm vụ khẩn cấp, xe công an đi làm nhiệm vụ khẩn cấp.",
-      "4": "Hướng 2 và 3."
+      "3": "Xe mô tô + xe con, xe quân sự đi làm nhiệm vụ khẩn cấp, xe công an đi làm nhiệm vụ khẩn cấp."
     }
   },
   {
@@ -8106,9 +7630,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe A.",
-      "2": "Xe B.",
-      "3": "Xe mô tô + xe con, xe quân sự đi làm nhiệm vụ khẩn cấp, xe công an đi làm nhiệm vụ khẩn cấp.",
-      "4": "Hướng 2 và 3."
+      "2": "Xe B."
     }
   },
   {
@@ -8121,9 +7643,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Không vi phạm.",
-      "2": "Vi phạm.",
-      "3": "Xe mô tô + xe con, xe quân sự đi làm nhiệm vụ khẩn cấp, xe công an đi làm nhiệm vụ khẩn cấp.",
-      "4": "Hướng 2 và 3."
+      "2": "Vi phạm."
     }
   },
   {
@@ -8151,9 +7671,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Nhường xe con rẽ trái trước.",
-      "2": "Đi thẳng không nhường.",
-      "3": "Xe khách (B), xe mô tô (C).",
-      "4": "Xe khách (B), xe mô tô (D)."
+      "2": "Đi thẳng không nhường."
     }
   },
   {
@@ -8181,9 +7699,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe con (A).",
-      "2": "Xe con (B).",
-      "3": "Tất cả các hướng trừ hướng 3.",
-      "4": "Tất cả các hướng trừ hướng 4."
+      "2": "Xe con (B)."
     }
   },
   {
@@ -8197,8 +7713,7 @@ var d = {
     "info": {
       "1": "Rẽ trái ngay trước xe buýt.",
       "2": "Rẽ trái trước xe tải.",
-      "3": "Nhường đường cho xe buýt và xe tải.",
-      "4": "Tất cả các hướng trừ hướng 4."
+      "3": "Nhường đường cho xe buýt và xe tải."
     }
   },
   {
@@ -8226,9 +7741,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe của bạn.",
-      "2": "Xe tải.",
-      "3": "Xe con (E), xe mô tô (D).",
-      "4": "Tất cả các loại xe trên."
+      "2": "Xe tải."
     }
   },
   {
@@ -8242,8 +7755,7 @@ var d = {
     "info": {
       "1": "Quay đầu theo hướng A.",
       "2": "Quay đầu theo hướng B.",
-      "3": "Cấm quay đầu.",
-      "4": "Tất cả các loại xe trên."
+      "3": "Cấm quay đầu."
     }
   },
   {
@@ -8272,8 +7784,7 @@ var d = {
     "info": {
       "1": "Tăng tốc cho xe chạy vượt qua.",
       "2": "Bật tín hiệu báo hiệu bằng đèn hoặc còi, khi đủ điều kiện an toàn, tăng tốc cho xe chạy vượt qua.",
-      "3": "Đánh lái sang làn bên trái và tăng tốc cho xe chạy vượt qua.",
-      "4": "Xe của bạn, xe tải + xe con."
+      "3": "Đánh lái sang làn bên trái và tăng tốc cho xe chạy vượt qua."
     }
   },
   {
@@ -8287,8 +7798,7 @@ var d = {
     "info": {
       "1": "Xe khách, xe mô tô.",
       "2": "Xe tải, xe mô tô.",
-      "3": "Xe con, xe tải.",
-      "4": "Xe của bạn, xe tải + xe con."
+      "3": "Xe con, xe tải."
     }
   },
   {
@@ -8302,8 +7812,7 @@ var d = {
     "info": {
       "1": "Xe tải ( D), xe con (B).",
       "2": "Xe con (A), xe con (C), xe con (E), xe buýt (G).",
-      "3": "Xe con (A), xe con (B), xe tải (D).",
-      "4": "Xe của bạn, xe tải + xe con."
+      "3": "Xe con (A), xe con (B), xe tải (D)."
     }
   },
   {
@@ -8316,9 +7825,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Được vượt.",
-      "2": "Cấm vượt.",
-      "3": "Xe con (A), xe con (B), xe tải (D).",
-      "4": "Xe của bạn, xe tải + xe con."
+      "2": "Cấm vượt."
     }
   },
   {
@@ -8331,9 +7838,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Cho phép.",
-      "2": "Không được vượt.",
-      "3": "Xe con (A), xe con (B), xe tải (D).",
-      "4": "Xe của bạn, xe tải + xe con."
+      "2": "Không được vượt."
     }
   },
   {
@@ -8392,8 +7897,7 @@ var d = {
     "info": {
       "1": "Xe con.",
       "2": "Xe tải.",
-      "3": "Xe con, xe tải.",
-      "4": "Cả hai xe."
+      "3": "Xe con, xe tải."
     }
   },
   {
@@ -8407,8 +7911,7 @@ var d = {
     "info": {
       "1": "Xe tải, xe con.",
       "2": "Xe khách, xe con.",
-      "3": "Xe khách, xe tải.",
-      "4": "Cả hai xe."
+      "3": "Xe khách, xe tải."
     }
   },
   {
@@ -8452,8 +7955,7 @@ var d = {
     "info": {
       "1": "Đánh lái sang trái cho xe vượt qua.",
       "2": "Quan sát phía trước, phía sau, khi đủ điều kiện an toàn, bật tín hiệu bằng đèn hoặc còi rồi cho xe chạy vượt qua.",
-      "3": "Cấm vượt.",
-      "4": "Xe khách, xe tải, xe con."
+      "3": "Cấm vượt."
     }
   },
   {
@@ -8497,8 +7999,7 @@ var d = {
     "info": {
       "1": "Xe của bạn, xe mô tô, xe con.",
       "2": "Xe con, xe của bạn, xe mô tô.",
-      "3": "Xe mô tô, xe con, xe của bạn.",
-      "4": "Xe con (B), xe con (C)."
+      "3": "Xe mô tô, xe con, xe của bạn."
     }
   },
   {
@@ -8512,8 +8013,7 @@ var d = {
     "info": {
       "1": "Xe của bạn, xe mô tô, xe con.",
       "2": "Xe con, xe của bạn, xe mô tô.",
-      "3": "Xe mô tô, xe con, xe của bạn.",
-      "4": "Xe con (B), xe con (C)."
+      "3": "Xe mô tô, xe con, xe của bạn."
     }
   },
   {
@@ -8527,8 +8027,7 @@ var d = {
     "info": {
       "1": "Xe con.",
       "2": "Xe của bạn.",
-      "3": "Cả hai xe.",
-      "4": "Xe con (B), xe con (C)."
+      "3": "Cả hai xe."
     }
   },
   {
@@ -8557,8 +8056,7 @@ var d = {
     "info": {
       "1": "Chuyển sang làn đường bên phải và rẽ phải.",
       "2": "Dừng lại trước vạch dừng và rẽ phải khi đèn xanh.",
-      "3": "Dừng lại trước vạch dừng và đi thẳng hoặc rẽ trái khi đèn xanh.",
-      "4": "Đi thẳng, rẽ phải, rẽ trái."
+      "3": "Dừng lại trước vạch dừng và đi thẳng hoặc rẽ trái khi đèn xanh."
     }
   },
   {
@@ -8572,8 +8070,7 @@ var d = {
     "info": {
       "1": "Tăng tốc độ, rẽ phải trước xe tải và xe đạp.",
       "2": "Giảm tốc độ, rẽ phải sau xe tải và xe đạp.",
-      "3": "Tăng tốc độ, rẽ phải trước xe đạp.",
-      "4": "Đi thẳng, rẽ phải, rẽ trái."
+      "3": "Tăng tốc độ, rẽ phải trước xe đạp."
     }
   },
   {
@@ -8587,8 +8084,7 @@ var d = {
     "info": {
       "1": "Tăng tốc độ, rẽ phải trước xe con màu xanh phía trước và người đi bộ.",
       "2": "Giảm tốc độ, để người đi bộ qua đường và rẽ phải trước xe con màu xanh.",
-      "3": "Giảm tốc độ, để người đi bộ qua đường và rẽ phải sau xe con màu xanh.",
-      "4": "Đi thẳng, rẽ phải, rẽ trái."
+      "3": "Giảm tốc độ, để người đi bộ qua đường và rẽ phải sau xe con màu xanh."
     }
   },
   {
@@ -8602,8 +8098,7 @@ var d = {
     "info": {
       "1": "Nhường đường cho xe khách và đi trước xe đạp.",
       "2": "Nhường đường cho xe đạp và đi trước xe khách.",
-      "3": "Nhường đường cho xe đạp và xe khách.",
-      "4": "Đi thẳng, rẽ phải, rẽ trái."
+      "3": "Nhường đường cho xe đạp và xe khách."
     }
   },
   {
@@ -8617,8 +8112,7 @@ var d = {
     "info": {
       "1": "Xe con.",
       "2": "Xe tải.",
-      "3": "Xe của bạn.",
-      "4": "Đi thẳng, rẽ phải, rẽ trái."
+      "3": "Xe của bạn."
     }
   },
   {
@@ -8631,9 +8125,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe đi ngược chiều.",
-      "2": "Xe của bạn.",
-      "3": "Xe của bạn.",
-      "4": "Đi thẳng, rẽ phải, rẽ trái."
+      "2": "Xe của bạn."
     }
   },
   {
@@ -8646,9 +8138,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Tăng tốc độ, chuyển sang làn đường bên trái để vượt.",
-      "2": "Không được vượt những người đi xe đạp.",
-      "3": "Xe của bạn.",
-      "4": "Đi thẳng, rẽ phải, rẽ trái."
+      "2": "Không được vượt những người đi xe đạp."
     }
   },
   {
@@ -8677,8 +8167,7 @@ var d = {
     "info": {
       "1": "Chuyển sang nửa đường bên trái để đi tiếp.",
       "2": "Bấm còi, nháy đèn báo hiệu và đi tiếp.",
-      "3": "Giảm tốc độ, dừng lại nhường đường.",
-      "4": "Ý 1 và ý 2."
+      "3": "Giảm tốc độ, dừng lại nhường đường."
     }
   },
   {
@@ -8692,8 +8181,7 @@ var d = {
     "info": {
       "1": "Phanh xe giảm tốc độ và đi sát lề đường bên phải.",
       "2": "Bấm còi, nháy đèn báo hiệu, giữ nguyên tốc độ và đi tiếp.",
-      "3": "Phanh xe giảm tốc độ và đi sát vào lề đường bên trái.",
-      "4": "Ý 1 và ý 2."
+      "3": "Phanh xe giảm tốc độ và đi sát vào lề đường bên trái."
     }
   },
   {
@@ -8707,8 +8195,7 @@ var d = {
     "info": {
       "1": "Bật tín hiệu xin chuyển làn đường sang trái để vượt xe tải.",
       "2": "Phanh xe giảm tốc độ chờ xe tải phía trước chuyển làn đường.",
-      "3": "Bấm còi báo hiệu và vượt qua xe tải trên làn đường của mình.",
-      "4": "Ý 1 và ý 2."
+      "3": "Bấm còi báo hiệu và vượt qua xe tải trên làn đường của mình."
     }
   },
   {
@@ -8722,8 +8209,7 @@ var d = {
     "info": {
       "1": "Tăng tốc độ và đi thẳng qua ngã tư.",
       "2": "Dừng xe trước vạch dừng.",
-      "3": "Giảm tốc độ và đi thẳng qua ngã tư.",
-      "4": "Ý 1 và ý 2."
+      "3": "Giảm tốc độ và đi thẳng qua ngã tư."
     }
   },
   {
@@ -8737,8 +8223,7 @@ var d = {
     "info": {
       "1": "Xe của bạn, xe mô tô, xe đạp.",
       "2": "Xe mô tô, xe đạp, xe của bạn.",
-      "3": "Xe đạp, xe mô tô, xe của bạn.",
-      "4": "Ý 1 và ý 2."
+      "3": "Xe đạp, xe mô tô, xe của bạn."
     }
   },
   {
@@ -8766,9 +8251,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe của bạn.",
-      "2": "Xe con.",
-      "3": "Xe tải, xe của bạn, xe con.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "2": "Xe con."
     }
   },
   {
@@ -8781,9 +8264,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe con.",
-      "2": "Xe của bạn.",
-      "3": "Xe tải, xe của bạn, xe con.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "2": "Xe của bạn."
     }
   },
   {
@@ -8797,8 +8278,7 @@ var d = {
     "info": {
       "1": "Tăng tốc độ, đi qua vạch người đi bộ sang đường, để người đi bộ sang đường sau.",
       "2": "Giảm tốc độ, đi qua vạch người đi bộ sang đường, để người đi bộ sang đường sau.",
-      "3": "Giảm tốc độ, để người đi bộ sang đường trước, sau đó cho xe đi qua vạch người đi bộ sang đường.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "3": "Giảm tốc độ, để người đi bộ sang đường trước, sau đó cho xe đi qua vạch người đi bộ sang đường."
     }
   },
   {
@@ -8811,9 +8291,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe con.",
-      "2": "Xe của bạn.",
-      "3": "Giảm tốc độ, để người đi bộ sang đường trước, sau đó cho xe đi qua vạch người đi bộ sang đường.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "2": "Xe của bạn."
     }
   },
   {
@@ -8827,8 +8305,7 @@ var d = {
     "info": {
       "1": "Xe con, xe tải, xe của bạn.",
       "2": "Xe tải, xe con, xe của bạn.",
-      "3": "Xe tải, xe của bạn, xe con.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "3": "Xe tải, xe của bạn, xe con."
     }
   },
   {
@@ -8842,8 +8319,7 @@ var d = {
     "info": {
       "1": "Tăng tốc độ cho xe lấn sang phần đường bên trái.",
       "2": "Giảm tốc độ cho xe lấn sang phần đường bên trái.",
-      "3": "Giảm tốc độ cho xe đi sát phần đường bên phải.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "3": "Giảm tốc độ cho xe đi sát phần đường bên phải."
     }
   },
   {
@@ -8856,9 +8332,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Xe tải.",
-      "2": "Xe của bạn.",
-      "3": "Giảm tốc độ cho xe đi sát phần đường bên phải.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "2": "Xe của bạn."
     }
   },
   {
@@ -8872,8 +8346,7 @@ var d = {
     "info": {
       "1": "Xe con.",
       "2": "Xe mô tô.",
-      "3": "Cả 2 xe đều đúng.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "3": "Cả 2 xe đều đúng."
     }
   },
   {
@@ -8887,8 +8360,7 @@ var d = {
     "info": {
       "1": "Xe tải, xe đạp, xe của bạn.",
       "2": "Xe của bạn, xe đạp, xe tải.",
-      "3": "Xe của bạn, xe tải, xe đạp.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "3": "Xe của bạn, xe tải, xe đạp."
     }
   },
   {
@@ -8902,8 +8374,7 @@ var d = {
     "info": {
       "1": "Hướng 1.",
       "2": "Hướng 2.",
-      "3": "Cả hai hướng đều được.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "3": "Cả hai hướng đều được."
     }
   },
   {
@@ -8917,8 +8388,7 @@ var d = {
     "info": {
       "1": "Bật đèn chiếu xa, tăng tốc độ vượt xe cùng chiều.",
       "2": "Giữ nguyên đèn chiếu gần, giảm tốc độ, đi sau xe phía trước.",
-      "3": "Giữ nguyên đèn chiếu gần, tăng tốc độ vượt xe cùng chiều.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "3": "Giữ nguyên đèn chiếu gần, tăng tốc độ vượt xe cùng chiều."
     }
   },
   {
@@ -8932,8 +8402,7 @@ var d = {
     "info": {
       "1": "Quan sát nếu thấy không có tàu thì tăng tốc cho xe vượt qua đường sắt.",
       "2": "Dừng lại trước rào chắn một khoảng cách an toàn.",
-      "3": "Ra tín hiệu, yêu cầu người gác chắn tàu kéo chậm barie để xe bạn qua.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "3": "Ra tín hiệu, yêu cầu người gác chắn tàu kéo chậm barie để xe bạn qua."
     }
   },
   {
@@ -8946,9 +8415,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Đúng.",
-      "2": "Sai.",
-      "3": "Ra tín hiệu, yêu cầu người gác chắn tàu kéo chậm barie để xe bạn qua.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "2": "Sai."
     }
   },
   {
@@ -8961,9 +8428,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Được vượt.",
-      "2": "Không được vượt.",
-      "3": "Ra tín hiệu, yêu cầu người gác chắn tàu kéo chậm barie để xe bạn qua.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "2": "Không được vượt."
     }
   },
   {
@@ -8976,9 +8441,7 @@ var d = {
     "goiy": "",
     "info": {
       "1": "Đúng.",
-      "2": "Không đúng.",
-      "3": "Ra tín hiệu, yêu cầu người gác chắn tàu kéo chậm barie để xe bạn qua.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "2": "Không đúng."
     }
   },
   {
@@ -8992,8 +8455,7 @@ var d = {
     "info": {
       "1": "Vượt về phía bên phải để đi tiếp.",
       "2": "Giảm tốc độ chờ xe container rẽ xong rồi tiếp tục đi.",
-      "3": "Vượt về phía bên trái để đi tiếp.",
-      "4": "Xe của bạn, xe con, xe tải."
+      "3": "Vượt về phía bên trái để đi tiếp."
     }
   }
 ]
