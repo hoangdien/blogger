@@ -21,7 +21,7 @@ var d = {
     "dapan": 2,
     "category": "khai-niem",
     "cauliet": "0",
-    "goiy": "àn đường là phần của phần đường xe chạy được chia theo chiều dọc, có đủ chiều rộng để đảm bảo phương tiện lưu thông an toàn. Mỗi làn giúp phân luồng giao thông rõ ràng, giảm va chạm và giữ trật tự trên đường. Đây là khái niệm cơ bản trong việc tổ chức giao thông hiệu quả.",
+    "goiy": "Làn đường là phần của phần đường xe chạy được chia theo chiều dọc, có đủ chiều rộng để đảm bảo phương tiện lưu thông an toàn. Mỗi làn giúp phân luồng giao thông rõ ràng, giảm va chạm và giữ trật tự trên đường. Đây là khái niệm cơ bản trong việc tổ chức giao thông hiệu quả.",
     "info": {
       "1": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, sử dụng cho xe chạy.",
       "2": "Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có đủ chiều rộng cho xe chạy an toàn.",
